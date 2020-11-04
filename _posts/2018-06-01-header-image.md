@@ -6,7 +6,7 @@ article_header:
   image:
     src: 
 ---
-![book image](/book.png){:.shadow}
+![book image](/book.png)
 
 I don’t want to go to the protest today.
 And I don’t like being attacked for it.
