@@ -1,7 +1,7 @@
 ---
  
 ---
-theme: minima
+
 ![book image](/book.png)
 
 
