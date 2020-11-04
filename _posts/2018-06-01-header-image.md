@@ -1,5 +1,5 @@
 ---
-title: I don't want to go to the protest today
+title: 
 tags: TeXt
 article_header:
   type: 
