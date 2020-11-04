@@ -1,10 +1,5 @@
 ---
-title:   
-tags: TeXt
-article_header:
-  type: 
-  image:
-    src: 
+ 
 ---
 ![book image](/book.png)
 
