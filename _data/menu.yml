@@ -1,13 +1,15 @@
 entries:
-  - title: me
+  - title: about me
     entries:
-      - title: github
-        url: https://github.com/DeimosTheMisthios
-      - title: rss feed
-        url: feed.xml
-      - title: "email: deimos at this domain dot tld"
-      - title: gpg key
-        url: https://github.com/DeimosTheMisthios.gpg
+      - title: phd student in reinforcement learning, universitat pompeu fabra
+      - title: i like to read, write, and paint
+      - title: see my art here (warning, leads to instagram)
+    
 
-  - title: all posts
+  - title: blog posts
     post_list: true
+  - title: contact me
+    entries:
+      - title: first name + last name + 01 + @ +gmail.com (lower cases)
+      - title: replicate this website
+        url: https://github.com/ahanadeb/no-style-please
