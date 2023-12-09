@@ -2,7 +2,7 @@
 layout: post
 
 ---
-<b> [note: This contains my outdated take on cancel culture, written by a young(er) and (more) immature and violent version of me, and the arguments were borrowed from this brilliant <a href='https://www.youtube.com/watch?v=OjMPJVmXxV8&t=75s' target='_blank'>video</a> by Natalie Wynn. The original blog was published in 2020, with a note claiming to be a concise summary of said video, and I have no doubt I did not succeed. Please watch the video instead, this blog is here for documentation purposes. Thank you.] </b>
+<b> [note: This contains my outdated take on cancel culture, written by a young(er) and (more) immature and violent version of me in the wake of the "me-too" movement in the upper social classes of Jadavpur University (JU), my alma mater. The arguments for this half-baked post were borrowed from this brilliant <a href='https://www.youtube.com/watch?v=OjMPJVmXxV8&t=75s' target='_blank'>video</a> by Natalie Wynn. The original blog was published in 2020, with a note claiming to be a concise summary of said video, and I have no doubt I did not succeed. Please watch the video instead, this blog is here for documentation purposes. Thank you.] </b>
 
 I understand the risks of being misinterpreted when approaching a topic so ill-debated and nuanced, I urge you to PLEASE reach out to me, CORRECT me where I’m wrong, and ENGAGE in a debate. I’m open to every varying opinion from anyone. Consider all possible trigger warnings, ask me to add more as you feel fit.
 
