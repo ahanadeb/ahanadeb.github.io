@@ -1,15 +1,19 @@
 entries:
   - title: "<b>about me</b>"
-    entries:
-      - title: phd student in reinforcement learning, universitat pompeu fabra
-      - title: i like to read, write, and paint
-      - title: "see my art <a href='https://instagram.com/ahanadeb' target='_blank'>here</a> (warning: leads to instagram)"
- 
-     
+    url: about
+    
 
-  - title: "<b>blog posts</b>"
+  - title: "<b>blog posts [thoughts]</b>"
     post_list: true
     show_more: true
+  # - title: "<b>what i've been upto lately</b>"
+  #   entries:
+  #     - title: learning catalan
+  #     - title: books i'm reading
+  #       url: booklist
+  #     - title: playlists
+  #       url: https://open.spotify.com/user/9xchnex8pc3nixzsf3fxb4vju?si=-bUFBSaKR_a5XHKUVcYx2w
+
   - title: "<b>contact me</b>"
     entries:
       - title: first name + last name + 01 + @ + gmail.com
