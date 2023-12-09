@@ -3,13 +3,14 @@ entries:
     entries:
       - title: phd student in reinforcement learning, universitat pompeu fabra
       - title: i like to read, write, and paint
-      - title: see my art here (warning, leads to instagram)
-    
+      - title: "see my art <a href='https://instagram.com/ahanadeb' target='_blank'>here</a> (warning: leads to instagram)"
+      - title: "previous blogs on <a href='https://medium.com/@korobi' target='_blank'>medium</a> "
+     
 
   - title: blog posts
     post_list: true
   - title: contact me
     entries:
-      - title: first name + last name + 01 + @ +gmail.com (lower cases)
+      - title: first name + last name + 01 + @ + gmail.com
       - title: replicate this website
         url: https://github.com/ahanadeb/no-style-please
