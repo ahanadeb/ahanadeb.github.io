@@ -4,8 +4,14 @@ entries:
     
 
   - title: "<b>blog posts [thoughts]</b>"
-    post_list: true
-    show_more: true
+    post_list:
+      category: thoughts 
+      show_more: true
+
+  - title: "<b>book-reviews</b>"
+    post_list:
+      category: book-review 
+      show_more: true
   # - title: "<b>what i've been upto lately</b>"
   #   entries:
   #     - title: learning catalan
