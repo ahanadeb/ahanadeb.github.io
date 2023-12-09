@@ -1,7 +1,7 @@
 ---
 layout: post
 title: against the web, brooks
-category: book-review
+category: bookreview
 ---
 
 currently writing
