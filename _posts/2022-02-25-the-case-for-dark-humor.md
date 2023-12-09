@@ -1,6 +1,6 @@
 ---
 layout: post
-
+category: thoughts
 ---
 There’s something very profoundly surreal about watching our generation respond to an imminent WWIII in memes and satire, and though some might find it culturally insensitive and “very gen-z”, a look back in the pre-WWII era shows us that perhaps it is neither.
 
