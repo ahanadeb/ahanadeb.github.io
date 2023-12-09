@@ -10,7 +10,7 @@ entries:
 
   - title: "<b>book-reviews</b>"
     post_list:
-      category: book-review 
+      category: bookreview 
       show_more: true
   # - title: "<b>what i've been upto lately</b>"
   #   entries:
