@@ -21,7 +21,7 @@ in my free time i read or play stardew valley (obviously in equal proportions).
 <br>
 - learning catalan at uni
 
-- books i'm reading right now [this subtext](booklist.md)
+- books i'm reading [right now](booklist.md)
 
 - my <a href='https://open.spotify.com/user/9xchnex8pc3nixzsf3fxb4vju?si=-bUFBSaKR_a5XHKUVcYx2w' target='_blank'>playlists</a> (warning: opens in spotify).
 
