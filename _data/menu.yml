@@ -1,5 +1,5 @@
 entries:
-  - title: about me
+  - title: "<b>about me</b>"
     entries:
       - title: phd student in reinforcement learning, universitat pompeu fabra
       - title: i like to read, write, and paint
@@ -7,9 +7,10 @@ entries:
       - title: "previous blogs on <a href='https://medium.com/@korobi' target='_blank'>medium</a> "
      
 
-  - title: blog posts
+  - title: "<b>blog posts</b>"
     post_list: true
-  - title: contact me
+    show_more: true
+  - title: "<b>contact me</b>"
     entries:
       - title: first name + last name + 01 + @ + gmail.com
       - title: replicate this website
