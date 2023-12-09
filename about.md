@@ -8,12 +8,15 @@ hi!
 
 \
 \
-i'm ahana, i'm currently pursuing a phd in theoretical reinforcement learning at universitat pompeu fabra. 
-i like reading, writing and painting.
+i'm ahana, i'm currently pursuing a phd in theoretical reinforcement learning at universitat pompeu fabra, in barcelona. i have a masters degree in intelligent interactive systems, and a bachelors in instrumentation and electronics engg.
+
+\
+\
+i enjoy reading, writing and painting.
 <br>
 see my art <a href='https://instagram.com/ahanadeb' target='_blank'>here</a> (warning: leads to instagram) [i plan to host my stuff here soon].
 <br>
-in my free time i read or play stardew valley (obviously in equal proportions). 
+in my free time i mostly read or play stardew valley (obviously in equal proportions). 
 
 \
 \
