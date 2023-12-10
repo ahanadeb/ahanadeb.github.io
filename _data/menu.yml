@@ -8,7 +8,7 @@ entries:
       category: thoughts 
       show_more: true
 
-  - title: "<b>book-reviews</b>"
+  - title: "<b>book reviews</b>"
     post_list:
       category: bookreview 
       show_more: true
