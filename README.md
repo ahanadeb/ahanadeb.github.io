@@ -1,6 +1,6 @@
 # ahanadeb.github.io
 
-This is the template for my personal [website](ahanadeb.github.io). Forked from [here](https://github.com/riggraz/no-style-please)
+This is the template for my personal [website](https://ahanadeb.github.io). Forked from [here](https://github.com/riggraz/no-style-please).
 
 ## Features
 
