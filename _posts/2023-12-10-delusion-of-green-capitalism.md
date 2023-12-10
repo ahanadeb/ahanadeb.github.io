@@ -4,7 +4,7 @@ title: The Delusion of Green Capitalism
 category: transcripts
 ---
 
-<b>[The following is the transcript of a part of the lecture by Slavoj Žižekat CUNY (New York) found [here](https://www.youtube.com/watch?v=yzcfsq1_bt8). Unfortunately the whole speech, which used to be [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkkxdmhFd0c5SXVZdEdfVTdfQklZR2xUanRWQXxBQ3Jtc0trclR3UGxsOVZJLTYwd3gteDhZQXlLc3o3eDRXTHQ1azFqa1ozdnBMQXlqX2EyaDJsNkpIeHVlMEdrY09JNUNWMWk3Zm5hMzh4d3RIbFA1Mm9DNUhMOWFZMElObEdvTzNmdkNlYi1zdDRSS29GNnFybw&q=http%3A%2F%2Ffora.tv%2F2011%2F04%2F04%2FSlavoj_Zizek_Catastrophic_But_Not_Serious&v=yzcfsq1_bt8),  is no longer available.] </b>
+<b>[The following is the transcript of a part of the lecture by Slavoj Žižek at CUNY (New York) found [here](https://www.youtube.com/watch?v=yzcfsq1_bt8). Unfortunately the whole speech, which used to be [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkkxdmhFd0c5SXVZdEdfVTdfQklZR2xUanRWQXxBQ3Jtc0trclR3UGxsOVZJLTYwd3gteDhZQXlLc3o3eDRXTHQ1azFqa1ozdnBMQXlqX2EyaDJsNkpIeHVlMEdrY09JNUNWMWk3Zm5hMzh4d3RIbFA1Mm9DNUhMOWFZMElObEdvTzNmdkNlYi1zdDRSS29GNnFybw&q=http%3A%2F%2Ffora.tv%2F2011%2F04%2F04%2FSlavoj_Zizek_Catastrophic_But_Not_Serious&v=yzcfsq1_bt8),  is no longer available.] </b>
  
 \
 \
