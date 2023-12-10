@@ -69,7 +69,12 @@ The rest of the interview goes on to discuss culture and movies, with an insight
 <br>
 
 
-submit missing resource for [^1]: 
+{: data-content="footnotes"}
+
+[^1]: missing resource
+
+<br>
+submit missing resource:
 <br>
 <form
   action="https://formspree.io/f/mqkvrdjn"
