@@ -1,6 +1,6 @@
 ---
 layout: post
-title: against the web, brooks
+title: Against The Right, Brooks
 category: bookreview
 ---
 
