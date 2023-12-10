@@ -30,3 +30,5 @@ entries:
       - title: first name + last name + 01 + @ + gmail.com
       - title: replicate this website
         url: https://github.com/ahanadeb/no-style-please
+  - title: "<b>this page is not monitised! [see how]</b>" 
+    url: not-monetised
