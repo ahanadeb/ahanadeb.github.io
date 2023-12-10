@@ -5,7 +5,7 @@ category: transcripts
 ---
 <!-- 
 "The real aim of this attack was to eternalize war, to prevent any possibility for decades of peace. What horrifies me is there are two narratives, opposed, radical, which in a an uncanny terrifying way echo each other. Those who now appear as the opposite poles are really playing a very similar game. What I fear terribly is that, in the long term, all sides will be losers. Now is the moment for Israel, (yeah a uh) annihilate Hamas, but at the same time, reach out to Palestinians, giving them some kind of a clear, clear, program of hope."  -->
-[This is a corrected transcript of [this interview](https://www.youtube.com/watch?v=zkQ0vEYry20) of Slavoj Žižek by [PoliticsJoe](https://linktr.ee/pubcast). There are 1 missing reference, I ask for your help to provide them.]
+[This is a corrected transcript of [this interview](https://www.youtube.com/watch?v=zkQ0vEYry20) of Slavoj Žižek by [PoliticsJoe](https://linktr.ee/pubcast). There is 1 missing reference, I ask for your help to provide them.]
 
 \
 \
