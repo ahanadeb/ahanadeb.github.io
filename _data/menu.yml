@@ -12,6 +12,11 @@ entries:
     post_list:
       category: bookreview 
       show_more: true
+
+  - title: "<b>transcripts</b>"
+    post_list:
+      category: transcripts 
+      show_more: true
   # - title: "<b>what i've been upto lately</b>"
   #   entries:
   #     - title: learning catalan
