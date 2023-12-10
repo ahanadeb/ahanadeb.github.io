@@ -12,7 +12,7 @@ So, there is, I claim, something deceptively reassuring in our readiness to assu
 
 \
 \
-It is true that the typical form of fetishistic disavowal à propos ecology is that 'I know very well that we are all dead, but I don't really believe it, so I'm not ready to do anything really radical and change my way of life'.
+It is true that the typical form of fetishistic disavowal à propos ecology is that 'I know very well that we are all dead[?], but I don't really believe it, so I'm not ready to do anything really radical and change my way of life'.
 But I claim there is also the opposite form of disavowal, something like, 'I know very well that I cannot really influence the process which may lead to my ruin, an earthquake or whatever. But it is nonetheless too traumatic for me to accept this, so I cannot resist the urge to do something even if I know it is ultimately meaningless.'
 Do we not buy organic food for much the same reason? Who really believes that those semi-putrefying and overpriced apples are really healthier? The point is that by buying them we are not just buying and consuming a product, we are simultaneously doing something meaningful, demonstrating our capacity for care and global awareness, participating in a noble, large, collective project. 
 
