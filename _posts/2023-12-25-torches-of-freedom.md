@@ -1,6 +1,6 @@
 ---
 layout: post
-category: thoughts
+category: unlisted
 title: Torches of Freedom
 ---
 
