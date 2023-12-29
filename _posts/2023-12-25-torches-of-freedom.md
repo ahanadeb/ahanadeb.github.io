@@ -1,12 +1,16 @@
 ---
 layout: post
-category: thoughts
 title: Torches of Freedom
+categories: [Blogging, Opinion]
+tags: [writing]
+pin: true
 ---
 
 
 
 After the final scene of the 2023 Ridley Scott film [‘Napoleon’](https://en.wikipedia.org/wiki/Napoleon_(2023_film)), where he shows the death of Napoleon on the island of Saint Helena after his final banishment, the screen turns completely dark, and then small white letters light up with the numbers of the casualties in the French army Napoleon was responsible for, in the battles he had led. This scene was significant, for all the cunning and craftiness of Napoleon that was explored through the battles, followed by the shameful defeat in Moscow, led up to this very anticlimactic last moment, and here is where Ridley Scott figuratively shows his cards and the half-hearted attempt to develop any complexity associated with the character is at once stripped away, and what is left behind is a simple message - look at this murderer. 
+
+<br>
 
 It would be wrong to blame Ridley Scott alone for subscribing to this grossly oversimplified storytelling, for you can see myriads of examples of this in the new americanised media. The infantilisation of the audience is everywhere, and the main characteristic of this type of americanisation is the direct appeal to our emotional faculties, not the rational processing of our brain. New thoughts and perspectives are both harder to accept and deliver, without proper cultivation and development, but primitive emotions are easier to mine, and thus we see this psychological weak point being exploited every time we switch on the TV [who of us haven’t cried to a teary-eyed family reunion at the end of a series]. However, as innocent as some of the implementations of this may look, the shifting of the discussion around ideas to provocations of feelings, is inherently anti-entropic, it doesn’t provide any fodder to think, and unlike changing ideas, there are few ways to feel. This has far more sinister implications once we see this same tactic all around us, in broadcast TV, in news media, and finally seeping into our political consciousness. Adam Curtis, a documentary filmmaker working for the BBC, said this in an [interview](https://www.theregister.com/2007/11/20/adam_curtis_interview/?page=1) with Register.com in 2007, 
 
@@ -19,15 +23,19 @@ It would be wrong to blame Ridley Scott alone for subscribing to this grossly ov
 
 Journalists and broadcasters are no longer incentivised to cultivate new lines of thought among their audience, and often resolve to oversimplification, against the very notion of what journalism previously meant. In this age of rampant individualism, Curtis argues, we are paradoxically also in a period of ‘intense conformity’ - despite being fiercely individualistic, more and more we think the same things, and feel the same way. And this demand for conformity is reflected in our social media activism as well. Complex political issues that require elaborate discussions are rarely ventured into and instead what we see are provocations to the unguarded emotional part of our brain to a clear single conclusion - either we agree to my oversimplified conclusion, or you’re a bad person. 
 
+<br>
 Perhaps an important role in development of this anti-entropic trend towards ideological conformity was played by the untimely demise of Facebook, and the attempt to replicate a public square of ideas [in the absence of the third place] through Facebook groups and interaction-friendly user interfaces, was replaced by the likes of Instagram and TikTok, which abandoned the pretence of the social aspect of media and directly focussed on the advertisers’ bottom line - as evident in their intentionally unintuitive comment section interface; the demand for interaction now is only in the form of mindless scrolling with the occasional pressing of the like/share button. This cemented the death of the exchange of ideas in a public social sphere online, whatever was left of it, and replaced it with dopamine slot machines, which are often used to pray on our physiological vulnerability in the name of activism. [Take a look at the coverage and online discourse around the ‘war’ in Palestine, how many times have you come across a truly well-meaning discussion on the realistic future of possibilities in Gaza]. I question further the effectivity of this ‘activism’ completely devoid of in-depth deliberations, and one can argue, [like Žižek does in the context of green capitalism], that sharing emotionally obscene political posts on social media in the name of activism, is nothing but frantic and obsessive,
 
 >‘like a soccer or baseball fan who supports his team in front of a TV screen at home, shouting and jumping up from his seat, in the superstitious belief that this will somehow influence the outcome.’
 
 [This is perhaps also symptomatic of our reflexive impotence and the sinking realisation of the inconsequentiality of our actions which can sometimes be too traumatic to accept, and we resolve to, in all awareness, these ritualistic actions that are ‘ultimately meaningless’.] 
 
+<br>
 But to understand better this clear shift between provocation to our rationality vs our emotional vulnerability, one needs to mention [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays) and his exploits [as shown wonderfully in the [Adam Curtis documentary](https://www.youtube.com/watch?v=eJ3RzGoQC4s&t=1703s)]. Bernays, the nephew of Sigmund Freud, and also known as the ‘father of public relations’ in the United States, was instrumental in the production of a new kind of customer in 1930s America, one motivated not by necessity, but by desire. Before, consumption in the US was motivated by need, and the advertisements clearly reflected it; cars were advertised not as a symbol of masculinity and swagger, but for their functionality and durability. The call was clearly to rationality - buy our product, because here is what we do, here is how long we last. Bernays fundamentally changed this premise of a sales pitch, and with the help of psychoanalysis [as he says], decided to directly target the emotional vulnerability of the masses, or the ‘primitive’ part of our brains that we do not consciously control. The result was a shift in advertisements and thus consumption based on desire, ‘expressing oneself’ through rampant consumption [of clothes and the likes] and a new age of consumerism began; the market now had more space for the surplus, it could finally sell things people didn’t need.
+<br>
 
 One example that must be mentioned here is Bernays’ plan to expand the consumer base of tobacco to include women in the 1920s. After a meeting with George Washington Hill, the president of the American Tobacco Co., Bernays [along with another psychoanalyst Abraham Brill], came to the conclusion that the repulsion of cigarettes for women came from its phallic shape, an expression of masculinity, and it can only be made enticing to women as a symbol of overcoming masculinity, and not accepting it. Bernays then hired women to smoke during an [Easter Sunday Parade](https://en.wikipedia.org/wiki/Torches_of_Freedom) in 1929, and alerted the media, who of course jumped at the opportunity of publicizing this scandal in the context of the ongoing suffrage movement. Bernays called these cigarettes “torches of freedom”, and he skillfully planted the age-old trap for the progressives; they were left with no option but to take their side. 
+<br>
 
 This was a direct appropriation of the first-wave feminist movement, but you see this playing out all across the globe especially now hinging on similar manipulations, in how capitalism successfully subsumes every liberation movement that raises its head; you can support every cause, be it the trans-liberation movement or starving children in Guatemala, just by buying the right products. The message here is simple: the cure to your dissatisfaction with capitalism can be found only through capitalism, there is no need to discuss or look any further, 2% of your overpriced coffee purchase goes directly to the poor. The fantasy here is fuelled by the made-easy charity donations, and this direct appeal to your emotions completely bypassing any rational arguments, would you not save the world if it just meant switching your brand of coffee? [Mark Fisher](https://en.wikipedia.org/wiki/Mark_Fisher) in <i>Capitalist Realism</i> points this out, 
 
@@ -43,7 +51,11 @@ This populist right exploits this vulnerability to their end, of course not for 
 
 Brooks rightly points out the clear emotional provocation in the careful use of the word ‘defending’, but what is also important is that provocateurs like Harris hinge on their claim to be objective and against the state, but often echo exactly the state’s justifications. This reflects the evolution of propaganda from the time of Bernays- from manipulating the masses to sell products to now selling ideological conformity in the name of ‘speaking truth to power’. The populist leftists are however, also not immune. They take a page from this playbook and try to exploit our depleting, numbing empathy towards the oppressed, without making the effort to contextualize it in critical thinking- which is why there is a noticeable change in leftist ‘leafletting’, similar to what was before calls to think and discuss, have been reduced to writings often indistinguishable from fundraisers by charity organisations. Academic spheres of difficult discussions around complex topics are now nauseating defeatist monologues on self-pity and self-fulfilling reflexive impotence, a desperate cry to the irrational part of our brain, not to think rationally, but to feel sorry. Not many would disagree I hope to the devastating blow this has sent down the spines of our political consciousness. This is evident in some new-generation liberals in India, I consciously refrain from names here, who often dream of an Islamic country, or at least write uncritical apologia of Islamic violence, because their empathy repeatedly provoked without the call to develop their thoughts has confused the oppressed with the infallible. 
 
+<br>
+
 This was also exposed after the Israel-Palestine ‘conflict’- other than the clear and right demands to sanction Israel for their war crimes, not a lot of discussion was had in the public sphere about the birth and evolution of Zionism, nor about the inherent Anti-semitism in the demand of the Western leaders to have a separate state for Jews, away in the Middle East, as the last battalion against ‘oriental barbarism’. The absence of this debate, and also the realistic discussion of possible diplomatic solutions, was quite instant - the media didn’t waste time to classify this as Hamas vs Jews, Israelis vs Arabs, West vs the Global South, or any other broader geopolitical context that appealed most to our natural need of self-preservation. Any attempt to discuss the true complexity of the situation was met with ‘cancellation’ from the left-wing mob, and on the other hand, the complete banishment of Palestinian voices from major Western right-wing/liberal media outlets, for the fear of an outrage.
+
+<br>
 
 The ideological war once fought on the turfs of ideas and rationality, is now being fought in the part of our brain we have no control over. This is not an easy fight to win at all for the left, without at least first addressing the unfairness of the premise. What is left to do is to abandon the banal anecdotal narratives of encounters with the abstract super state of the oppressor often placed without the context of critical thinking, and steer towards the cultivation of ideas, however uncomfortable they may be and explore further the causes and tools of necessary opposition to the systemic oppression, outside of the myopic lens of personal experiences. This can range from the honest well-intended difficult discussions about racism, sexism, and casteism in academic spheres instead of hiding behind ‘safe’ spaces of political correctness, or perhaps in the economic sense in the form of abandoning the fatigued dream of the welfare state, and practically demanding first the restoration of traditional capitalism [I mention here Beijing, China, where a recent stock exchange was opened to promote small businesses; the irony of the situation, as Žižek points out, is “a Communist regime is needed to keep capitalism alive” in the advent of neo-feudal corporatism]. (I do not make any claim that this indeed is the correct thing to demand, I only encourage that the uncomfortable possibilities shouldn’t be abandoned without apt criticism). Here we should rightfully look back to Lenin’s [“On Ascending a High Mountain”](https://www.marxists.org/archive/lenin/works/1922/feb/x01.htm) written after the Bolshevik retreat into the NEP (New Economic Policy),
 
@@ -58,26 +70,3 @@ The message here is that movement, any movement, by characteristic is repetitive
 <br>
 <br>
 
-
-write your thoughts: 
-<br>
-<form
-  action="https://formspree.io/f/mqkvrdjn"
-  method="POST"
->
-  <label>
-    your email:
-    <input type="email" name="email">
-  </label>
-
-  <br>
-   <br>
-
-  <label>
-    your message:
-    <textarea name="message"></textarea>
-  </label>
-  <br>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>

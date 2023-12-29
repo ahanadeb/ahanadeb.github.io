@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Žižek on Israel-Palestine
-category: transcripts
+categories: [Transcript]
+tags: [writing]
 ---
 <!-- 
 "The real aim of this attack was to eternalize war, to prevent any possibility for decades of peace. What horrifies me is there are two narratives, opposed, radical, which in a an uncanny terrifying way echo each other. Those who now appear as the opposite poles are really playing a very similar game. What I fear terribly is that, in the long term, all sides will be losers. Now is the moment for Israel, (yeah a uh) annihilate Hamas, but at the same time, reach out to Palestinians, giving them some kind of a clear, clear, program of hope."  -->
@@ -73,26 +74,3 @@ The rest of the interview goes on to discuss culture and movies, with an insight
 
 [^1]: supported by this text [here](https://www.lacan.com/zizlacan3.htm).
 
-<br>
-submit additional resources / corrections:
-<br>
-<form
-  action="https://formspree.io/f/mqkvrdjn"
-  method="POST"
->
-  <label>
-    your email:
-    <input type="email" name="email">
-  </label>
-
-  <br>
-   <br>
-
-  <label>
-    your message:
-    <textarea name="message"></textarea>
-  </label>
-  <br>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>

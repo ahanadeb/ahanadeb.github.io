@@ -1,6 +1,7 @@
 ---
 layout: post
-category: thoughts
+categories: [Blogging, Opinion]
+tags: [writing]
 ---
 There’s something very profoundly surreal about watching our generation respond to an imminent WWIII in memes and satire, and though some might find it culturally insensitive and “very gen-z”, a look back in the pre-WWII era shows us that perhaps it is neither.
 
@@ -15,7 +16,7 @@ The art movement which would soon be referred to as Dadaism, spread quickly acro
 
 \
 \
-![image tooltip here](/assets/image1.webp)
+![image tooltip here](/assets/img/favicons/dark-humour-blog/image1.webp)
 *Marcel Duchamp, 1919, L.H.O.O.Q.[^1]* 
 
 \
@@ -24,7 +25,7 @@ The nonsensical art movement spread all across the world and became the birth pl
 
 \
 \
-![image tooltip here](/assets/image2.webp)
+![image tooltip here](/assets/img/favicons/dark-humour-blog/image2.webp)
 *Scene from Andaluský pes (An Andalusian Dog), 1929, a man holding a razor to a woman’s eye*
 
 \
@@ -33,7 +34,7 @@ Francis Picabia, another great artist propagating the movement, created the Tabl
 
 \
 \
-![image tooltip here](/assets/image3.webp)
+![image tooltip here](/assets/img/favicons/dark-humour-blog/image3.webp)
 *Francis Picabia, Tableau Rastadada, 1920*
 
 \
@@ -55,28 +56,6 @@ Perhaps what comes off as ‘insensitive’ to certain viewers, is a desperate a
 <br>
 
 
-write your thoughts: 
-<br>
-<form
-  action="https://formspree.io/f/mqkvrdjn"
-  method="POST"
->
-  <label>
-    your email:
-    <input type="email" name="email">
-  </label>
-
-  <br>
-   <br>
-
-  <label>
-    your message:
-    <textarea name="message"></textarea>
-  </label>
-  <br>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
 
 
 <br>

@@ -1,569 +1,228 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-27T04:30:15+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">ahanadeb</title><subtitle></subtitle><author><name>Ahana Deb</name></author><entry><title type="html">Torches of Freedom</title><link href="http://localhost:4000/thoughts/torches-of-freedom/" rel="alternate" type="text/html" title="Torches of Freedom" /><published>2023-12-25T00:00:00+05:30</published><updated>2023-12-25T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/torches-of-freedom</id><content type="html" xml:base="http://localhost:4000/thoughts/torches-of-freedom/">&lt;p&gt;After the final scene of the 2023 Ridley Scott film &lt;a href=&quot;https://en.wikipedia.org/wiki/Napoleon_(2023_film)&quot;&gt;‘Napoleon’&lt;/a&gt;, where he shows the death of Napoleon on the island of Saint Helena after his final banishment, the screen turns completely dark, and then small white letters light up with the numbers of the casualties in the French army Napoleon was responsible for, in the battles he had led. This scene was significant, for all the cunning and craftiness of Napoleon that was explored through the battles, followed by the shameful defeat in Moscow, led up to this very anticlimactic last moment, and here is where Ridley Scott figuratively shows his cards and the half-hearted attempt to develop any complexity associated with the character is at once stripped away, and what is left behind is a simple message - look at this murderer. &lt;/p&gt;
 
-&lt;p&gt;It would be wrong to blame Ridley Scott alone for subscribing to this grossly oversimplified storytelling, for you can see myriads of examples of this in the new americanised media. The infantilisation of the audience is everywhere, and the main characteristic of this type of americanisation is the direct appeal to our emotional faculties, not the rational processing of our brain. New thoughts and perspectives are both harder to accept and deliver, without proper cultivation and development, but primitive emotions are easier to mine, and thus we see this psychological weak point being exploited every time we switch on the TV [who of us haven’t cried to a teary-eyed family reunion at the end of a series]. However, as innocent as some of the implementations of this may look, the shifting of the discussion around ideas to provocations of feelings, is inherently anti-entropic, it doesn’t provide any fodder to think, and unlike changing ideas, there are few ways to feel. This has far more sinister implications once we see this same tactic all around us, in broadcast TV, in news media, and finally seeping into our political consciousness. Adam Curtis, a documentary filmmaker working for the BBC, said this in an &lt;a href=&quot;https://www.theregister.com/2007/11/20/adam_curtis_interview/?page=1&quot;&gt;interview&lt;/a&gt; with Register.com in 2007, &lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“TV now tells you what to feel.
-It doesn’t tell you what to think anymore. From EastEnders to reality format shows, you’re on the emotional journey of people - and through the editing, it gently suggests to you what is the agreed form of feeling. “Hugs and Kisses”, I call it.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>ahanadeb</title>
+  <subtitle>personal opinions and writings.</subtitle>
+  <updated>2023-12-30T06:54:44+08:00</updated>
+  <author>
+    <name>Ahana Deb</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2023 Ahana Deb </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
 
-  &lt;p&gt;…It really is a system not of moral guidance, but of emotional guidance.
-Morality has been replaced by feeling.”&lt;/p&gt;
-&lt;/blockquote&gt;
+  
+  <entry>
+    <title>Torches of Freedom</title>
+    <link href="http://localhost:4000/posts/torches-of-freedom/" rel="alternate" type="text/html" title="Torches of Freedom" />
+    <published>2023-12-25T00:00:00+08:00</published>
+  
+    <updated>2023-12-25T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/torches-of-freedom/</id>
+    <content src="http://localhost:4000/posts/torches-of-freedom/" />
+    <author>
+      <name>Ahana Deb</name>
+    </author>
 
-&lt;p&gt;Journalists and broadcasters are no longer incentivised to cultivate new lines of thought among their audience, and often resolve to oversimplification, against the very notion of what journalism previously meant. In this age of rampant individualism, Curtis argues, we are paradoxically also in a period of ‘intense conformity’ - despite being fiercely individualistic, more and more we think the same things, and feel the same way. And this demand for conformity is reflected in our social media activism as well. Complex political issues that require elaborate discussions are rarely ventured into and instead what we see are provocations to the unguarded emotional part of our brain to a clear single conclusion - either we agree to my oversimplified conclusion, or you’re a bad person. &lt;/p&gt;
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Opinion" />
+    
+  
 
-&lt;p&gt;Perhaps an important role in development of this anti-entropic trend towards ideological conformity was played by the untimely demise of Facebook, and the attempt to replicate a public square of ideas [in the absence of the third place] through Facebook groups and interaction-friendly user interfaces, was replaced by the likes of Instagram and TikTok, which abandoned the pretence of the social aspect of media and directly focussed on the advertisers’ bottom line - as evident in their intentionally unintuitive comment section interface; the demand for interaction now is only in the form of mindless scrolling with the occasional pressing of the like/share button. This cemented the death of the exchange of ideas in a public social sphere online, whatever was left of it, and replaced it with dopamine slot machines, which are often used to pray on our physiological vulnerability in the name of activism. [Take a look at the coverage and online discourse around the ‘war’ in Palestine, how many times have you come across a truly well-meaning discussion on the realistic future of possibilities in Gaza]. I question further the effectivity of this ‘activism’ completely devoid of in-depth deliberations, and one can argue, [like Žižek does in the context of green capitalism], that sharing emotionally obscene political posts on social media in the name of activism, is nothing but frantic and obsessive,&lt;/p&gt;
+  
+    <summary>
+      
 
-&lt;blockquote&gt;
-  &lt;p&gt;‘like a soccer or baseball fan who supports his team in front of a TV screen at home, shouting and jumping up from his seat, in the superstitious belief that this will somehow influence the outcome.’&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;p&gt;[This is perhaps also symptomatic of our reflexive impotence and the sinking realisation of the inconsequentiality of our actions which can sometimes be too traumatic to accept, and we resolve to, in all awareness, these ritualistic actions that are ‘ultimately meaningless’.] &lt;/p&gt;
 
-&lt;p&gt;But to understand better this clear shift between provocation to our rationality vs our emotional vulnerability, one needs to mention &lt;a href=&quot;https://en.wikipedia.org/wiki/Edward_Bernays&quot;&gt;Edward Bernays&lt;/a&gt; and his exploits [as shown wonderfully in the &lt;a href=&quot;https://www.youtube.com/watch?v=eJ3RzGoQC4s&amp;amp;t=1703s&quot;&gt;Adam Curtis documentary&lt;/a&gt;]. Bernays, the nephew of Sigmund Freud, and also known as the ‘father of public relations’ in the United States, was instrumental in the production of a new kind of customer in 1930s America, one motivated not by necessity, but by desire. Before, consumption in the US was motivated by need, and the advertisements clearly reflected it; cars were advertised not as a symbol of masculinity and swagger, but for their functionality and durability. The call was clearly to rationality - buy our product, because here is what we do, here is how long we last. Bernays fundamentally changed this premise of a sales pitch, and with the help of psychoanalysis [as he says], decided to directly target the emotional vulnerability of the masses, or the ‘primitive’ part of our brains that we do not consciously control. The result was a shift in advertisements and thus consumption based on desire, ‘expressing oneself’ through rampant consumption [of clothes and the likes] and a new age of consumerism began; the market now had more space for the surplus, it could finally sell things people didn’t need.&lt;/p&gt;
 
-&lt;p&gt;One example that must be mentioned here is Bernays’ plan to expand the consumer base of tobacco to include women in the 1920s. After a meeting with George Washington Hill, the president of the American Tobacco Co., Bernays [along with another psychoanalyst Abraham Brill], came to the conclusion that the repulsion of cigarettes for women came from its phallic shape, an expression of masculinity, and it can only be made enticing to women as a symbol of overcoming masculinity, and not accepting it. Bernays then hired women to smoke during an &lt;a href=&quot;https://en.wikipedia.org/wiki/Torches_of_Freedom&quot;&gt;Easter Sunday Parade&lt;/a&gt; in 1929, and alerted the media, who of course jumped at the opportunity of publicizing this scandal in the context of the ongoing suffrage movement. Bernays called these cigarettes “torches of freedom”, and he skillfully planted the age-old trap for the progressives; they were left with no option but to take their side. &lt;/p&gt;
 
-&lt;p&gt;This was a direct appropriation of the first-wave feminist movement, but you see this playing out all across the globe especially now hinging on similar manipulations, in how capitalism successfully subsumes every liberation movement that raises its head; you can support every cause, be it the trans-liberation movement or starving children in Guatemala, just by buying the right products. The message here is simple: the cure to your dissatisfaction with capitalism can be found only through capitalism, there is no need to discuss or look any further, 2% of your overpriced coffee purchase goes directly to the poor. The fantasy here is fuelled by the made-easy charity donations, and this direct appeal to your emotions completely bypassing any rational arguments, would you not save the world if it just meant switching your brand of coffee? &lt;a href=&quot;https://en.wikipedia.org/wiki/Mark_Fisher&quot;&gt;Mark Fisher&lt;/a&gt; in &lt;i&gt;Capitalist Realism&lt;/i&gt; points this out, &lt;/p&gt;
+      After the final scene of the 2023 Ridley Scott film ‘Napoleon’, where he shows the death of Napoleon on the island of Saint Helena after his final banishment, the screen turns completely dark, and then small white letters light up with the numbers of the casualties in the French army Napoleon was responsible for, in the battles he had led. This scene was significant, for all the cunning and cra...
+    </summary>
+  
 
-&lt;blockquote&gt;
-  &lt;p&gt;‘The fantasy being western consumerism, far from being intrinsically implicated in systemic global inequalities, could itself solve them.’&lt;/p&gt;
-&lt;/blockquote&gt;
+  </entry>
 
-&lt;p&gt;Bernays was quite probably one of the first here to introduce the aspect of propaganda in daily life, his psychoanalytical approach to simulating people’s desires, or perhaps even generating them, enforces the same point; we are not fully aware to what extent our physiological vulnerability can be exploited and how devastating that might be for our collective political consciousness. He says here,&lt;/p&gt;
+  
+  <entry>
+    <title>Žižek on Israel-Palestine</title>
+    <link href="http://localhost:4000/posts/israel-palestine/" rel="alternate" type="text/html" title="Žižek on Israel-Palestine" />
+    <published>2023-12-10T00:00:00+08:00</published>
+  
+    <updated>2023-12-10T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/israel-palestine/</id>
+    <content src="http://localhost:4000/posts/israel-palestine/" />
+    <author>
+      <name>Ahana Deb</name>
+    </author>
 
-&lt;blockquote&gt;
-  &lt;p&gt;“…if you could use propaganda for war, you can certainly use it for peace”.&lt;/p&gt;
-&lt;/blockquote&gt;
+  
+    
+    <category term="Transcript" />
+    
+  
 
-&lt;p&gt;This populist right exploits this vulnerability to their end, of course not for the intention of peace. I follow &lt;a href=&quot;https://en.wikipedia.org/wiki/Michael_Brooks_(political_commentator)&quot;&gt;Michael Brooks&lt;/a&gt; here in picking out this one statement by Sam Harris in 2014 apropos the situation in Israel-Palestine where he says,&lt;/p&gt;
+  
+    <summary>
+      
 
-&lt;blockquote&gt;
-  &lt;p&gt;“…needless to say, in defending its territory as a Jewish state, the Israeli government and the Israelis themselves have had to do terrible things…”&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;p&gt;Brooks rightly points out the clear emotional provocation in the careful use of the word ‘defending’, but what is also important is that provocateurs like Harris hinge on their claim to be objective and against the state, but often echo exactly the state’s justifications. This reflects the evolution of propaganda from the time of Bernays- from manipulating the masses to sell products to now selling ideological conformity in the name of ‘speaking truth to power’. The populist leftists are however, also not immune. They take a page from this playbook and try to exploit our depleting, numbing empathy towards the oppressed, without making the effort to contextualize it in critical thinking- which is why there is a noticeable change in leftist ‘leafletting’, similar to what was before calls to think and discuss, have been reduced to writings often indistinguishable from fundraisers by charity organisations. Academic spheres of difficult discussions around complex topics are now nauseating defeatist monologues on self-pity and self-fulfilling reflexive impotence, a desperate cry to the irrational part of our brain, not to think rationally, but to feel sorry. Not many would disagree I hope to the devastating blow this has sent down the spines of our political consciousness. This is evident in some new-generation liberals in India, I consciously refrain from names here, who often dream of an Islamic country, or at least write uncritical apologia of Islamic violence, because their empathy repeatedly provoked without the call to develop their thoughts has confused the oppressed with the infallible. &lt;/p&gt;
 
-&lt;p&gt;This was also exposed after the Israel-Palestine ‘conflict’- other than the clear and right demands to sanction Israel for their war crimes, not a lot of discussion was had in the public sphere about the birth and evolution of Zionism, nor about the inherent Anti-semitism in the demand of the Western leaders to have a separate state for Jews, away in the Middle East, as the last battalion against ‘oriental barbarism’. The absence of this debate, and also the realistic discussion of possible diplomatic solutions, was quite instant - the media didn’t waste time to classify this as Hamas vs Jews, Israelis vs Arabs, West vs the Global South, or any other broader geopolitical context that appealed most to our natural need of self-preservation. Any attempt to discuss the true complexity of the situation was met with ‘cancellation’ from the left-wing mob, and on the other hand, the complete banishment of Palestinian voices from major Western right-wing/liberal media outlets, for the fear of an outrage.&lt;/p&gt;
 
-&lt;p&gt;The ideological war once fought on the turfs of ideas and rationality, is now being fought in the part of our brain we have no control over. This is not an easy fight to win at all for the left, without at least first addressing the unfairness of the premise. What is left to do is to abandon the banal anecdotal narratives of encounters with the abstract super state of the oppressor often placed without the context of critical thinking, and steer towards the cultivation of ideas, however uncomfortable they may be and explore further the causes and tools of necessary opposition to the systemic oppression, outside of the myopic lens of personal experiences. This can range from the honest well-intended difficult discussions about racism, sexism, and casteism in academic spheres instead of hiding behind ‘safe’ spaces of political correctness, or perhaps in the economic sense in the form of abandoning the fatigued dream of the welfare state, and practically demanding first the restoration of traditional capitalism [I mention here Beijing, China, where a recent stock exchange was opened to promote small businesses; the irony of the situation, as Žižek points out, is “a Communist regime is needed to keep capitalism alive” in the advent of neo-feudal corporatism]. (I do not make any claim that this indeed is the correct thing to demand, I only encourage that the uncomfortable possibilities shouldn’t be abandoned without apt criticism). Here we should rightfully look back to Lenin’s &lt;a href=&quot;https://www.marxists.org/archive/lenin/works/1922/feb/x01.htm&quot;&gt;“On Ascending a High Mountain”&lt;/a&gt; written after the Bolshevik retreat into the NEP (New Economic Policy),&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“Communists who have no illusions, who do not give way to despondency, and who preserve their strength and flexibility “to begin from the beginning “ over and over again in approaching an extremely difficult task, are not doomed (and in all probability will not perish).”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The message here is that movement, any movement, by characteristic is repetitive and often it is required to “begin from the beginning”, without expecting to find success in the direction of a previously failed effort. Perhaps in the face of life-threatening climate crises and the complete demolition of the public square of ideas and the advent of the new age of the war on our ‘irrationality’,’ it’s imperative we rethink, move outside the failed discourses, manipulation of feelings, and frail attempts to fight propaganda with propaganda, and reevaluate - what is to be done. &lt;/p&gt;
+      
+[This is a corrected transcript of this interview of Slavoj Žižek by PoliticsJoe. The hard-to-find references were contributed by Roger Ferran i Baños.]
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;write your thoughts: 
-&lt;br /&gt;&lt;/p&gt;
-&lt;form action=&quot;https://formspree.io/f/mqkvrdjn&quot; method=&quot;POST&quot;&gt;
-  &lt;label&gt;
-    your email:
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; /&gt;
-  &lt;/label&gt;
-
-  &lt;br /&gt;
-   &lt;br /&gt;
-
-  &lt;label&gt;
-    your message:
-    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br /&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;</content><author><name>Ahana Deb</name></author><category term="thoughts" /><summary type="html">After the final scene of the 2023 Ridley Scott film ‘Napoleon’, where he shows the death of Napoleon on the island of Saint Helena after his final banishment, the screen turns completely dark, and then small white letters light up with the numbers of the casualties in the French army Napoleon was responsible for, in the battles he had led. This scene was significant, for all the cunning and craftiness of Napoleon that was explored through the battles, followed by the shameful defeat in Moscow, led up to this very anticlimactic last moment, and here is where Ridley Scott figuratively shows his cards and the half-hearted attempt to develop any complexity associated with the character is at once stripped away, and what is left behind is a simple message - look at this murderer. </summary></entry><entry><title type="html">Žižek on Israel-Palestine</title><link href="http://localhost:4000/transcripts/israel-palestine/" rel="alternate" type="text/html" title="Žižek on Israel-Palestine" /><published>2023-12-10T00:00:00+05:30</published><updated>2023-12-10T00:00:00+05:30</updated><id>http://localhost:4000/transcripts/israel-palestine</id><content type="html" xml:base="http://localhost:4000/transcripts/israel-palestine/">&lt;!-- 
-&quot;The real aim of this attack was to eternalize war, to prevent any possibility for decades of peace. What horrifies me is there are two narratives, opposed, radical, which in a an uncanny terrifying way echo each other. Those who now appear as the opposite poles are really playing a very similar game. What I fear terribly is that, in the long term, all sides will be losers. Now is the moment for Israel, (yeah a uh) annihilate Hamas, but at the same time, reach out to Palestinians, giving them some kind of a clear, clear, program of hope.&quot;  --&gt;
-&lt;p&gt;[This is a corrected transcript of &lt;a href=&quot;https://www.youtube.com/watch?v=zkQ0vEYry20&quot;&gt;this interview&lt;/a&gt; of Slavoj Žižek by &lt;a href=&quot;https://linktr.ee/pubcast&quot;&gt;PoliticsJoe&lt;/a&gt;. The hard-to-find references were contributed by Roger Ferran i Baños.]&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- &lt;i&gt;&lt;b&gt;Slavoj Žižek, welcome back to PoliticsJoe, for those unfamiliar with who you are, how would you like to introduce yourself?&lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
--  Ah, now comes a surprise. I still advocate [for] communism, but what kind of communism? A German journalist asked me what kind of communist you are, and I gave an answer - a moderately conservative communist. By moderately conservative I mean something very precise. You know what bothers me with some leftist liberals- they make big plan[s], let’s do this, new legislation, and so on, but not the Rishi Sunak kind, but the authentic (they’re an endangered species today) old conservatives, what even Lenin and Mao admired in them, is this brutal realism. In the sense of, yes, we can do this, but you think like crazy about what will be the consequences- what if we screw that other thing and so on. And so because it isn’t the standard, even radical, leftist game. Then you of course cause a catastrophe, and then you blame the enemy. It’s like what I call, sadly in Africa, the Mugabe game. You screw it up and then you blame, because secretly the whites still control everything. And what is really breaking my heart is that now South Africa is approaching [this]. So by moderately conservative I mean simply, before you act, think well about all possible consequences because, social life here, I am very pessimist not traditional Marxist, is obscure, non-transparent, complex- you never know what the actual result would be. So now you can counterattack me, but why then communist at all? To give you a very short answer, it’s not a communism of joy, of abundance- it’s a sad pessimist communism. Look we are facing now, three, four, five, I cannot even nominate them all, real apocalyptic threats, war, immigration, ecological threat, artificial intelligence, and I don’t see any other way to cope with this than what I provocatively call war communism - an emergency state where, (I’m not talking about world government and [the] state taking over, that would be a catastrophe, even worse), but some kind of global international cooperation, not just this aesthetic cooperation- ‘yes we must understand each [other]’, but more forceful cooperation will be necessary. Now when people tell me, oh, but this is total Utopia, I tell them sorry, remember covid? Even Trump had to do measures which come very close to what I call communism. You remember uh every family got a check for $2,000 and so on, (&lt;i&gt;&lt;b&gt;stimulus checks&lt;/b&gt;&lt;/i&gt;) yeah and you remember how half a year before, if you were to mention an idea like this, all the neoliberals would say, no, this would mean [the] ruin of our economy. No, it didn’t. The good point about [the] Covid epidemic was that it was made clear how much we can play with the market, do things independently of the market and they don’t necessarily ruin the economy. So again, ‘communist’, it means I sincerely don’t see how to cope with the problems, threats, that are on the horizon, without a much stronger collective collaboration well beyond the limits of the sovereign nation-state. Just to conclude, please allow me this, my example that I mention all the time, you remember two and a half years ago, that crazy hot summer wherem northwest of United States, southwest of Canada, Seattle, Vancouver, 50° C, it was warmer than Mumbai or Emirates. You cannot say they should take care more of ecology, no these are rich parts of the world that did the proper measures. The problem is that the whole circulation of
-air around the North Pole is disturbed. So in this sense, I’m a communist in the sense of, we have to prepare to some emergency state. Precisely because if we don’t do it in a transparent democratic way,then better not to think [about] what can happen. But again moderately conservative, be careful about the consequences. I hate again this traditional leftist game was- yeah, yeah, imperialism still controls us, and so on.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- &lt;i&gt;&lt;b&gt;To continue the theme of catastrophe, you’ve also described the Western response to the conflict as a moral catastrophe. Could you talk about that a little bit more?&lt;/b&gt;&lt;/i&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-- The problem was [is] that now it’s getting more mixed. But this, you know, I was interrupted in my Frankfurt speech, because the basic problem was.. but I even didn’t use the word “but”, like I condemn Hamas “but”, and as somebody says at the end of the debate, the word “but” should be prohibited now. Another word that should be prohibited I was informed is “complex situation”, now there is only one side, [and] it’s absolutely clear. And you know where I see a moral catastrophe? Now, I’m sorry if I will sound anti-German, I don’t mean all of Germany, I mean the predominant stance in politics now’s this one - Germans admit they did the Holocaust. And now by pursuing radically pro-Israeli politics, they do something disgusting I think. They think that by supporting Israel where Israel is not right, West Bank and so on, they will somehow pay their debt for the Holocaust and so on. I find this something so terribly immoral. Another thing that I find immoral is also and at multiple levels, (and I here only quote Yuval Harari and all of them), this is for me the true moral catastrophe, where you posit a choice- either you speak about Israeli victims or you speak about Palestinian victims in Gaza. If you mention Palestinian victims, you are already anti-Semitic and so on and so on. My my basic insight here is, that’s why I think it’s a moral catastrophe, that those Zionist Israelis who mention in today’s situation Holocaust, are doing a terrifying disrespectful exploitation of Holocaust itself. Holocaust, a terrifying unimaginable crime, they use it as a stake as a tong to justify their politics now. That’s why I think that, and my true ethical hero, did you notice this detail, that’s why so many people attacked me, I was very restrained and careful in my Frankfurt speech. All the positive people I quote that were Jews! Even &lt;a href=&quot;https://en.wikipedia.org/wiki/Moshe_Dayan&quot;&gt;Moshe Dayan&lt;/a&gt;, how much more refreshing it’s now to read the first generation &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Ben-Gurion&quot;&gt;Ben-Gurion&lt;/a&gt; who didn’t play the game “this is our land blah blah blah”… No! they said it’s a[n] impossible conflict, we know nobody’s right and so on. Not to mention &lt;a href=&quot;https://en.wikipedia.org/wiki/Simon_Wiesenthal&quot;&gt;Simon Wiesenthal&lt;/a&gt;, not to mention my true ethical hero, if there is a person, to whom I would give, maybe (please to our listeners check it on Wikipedia or whatever), is &lt;a href=&quot;https://en.wikipedia.org/wiki/Marek_Edelman&quot;&gt;Marek Edelman&lt;/a&gt;, it’s a polish Jew mega hero. He was a bundist, more socialist Jew, he was one of the key organizers of the ghetto uprising ’43 in Warsaw. Magically he survived it, then he was one of the key organizers of the Warsaw Uprising ’44. Magically he survived it then he remained in Poland and he gave a wonderful theoretical explanation, when later anti-Semitism, under communism, emerged again, he stayed there. And he again, he provided a beautiful metaphor, he said, it’s not what I’m saying, but imagine me as a stone in Auschwitz, somebody has to be here to embody, not to talk about that memory. And at the end of his life, he wrote a letter to “my Palestinian friends”, where he said, I support your rebellion against Israel, of course, condemning all Palestinian violence. There is a great Jewish tradition which is incredible. That’s why I don’t like this Western, the most disgusting Western position, anti-Semitic Zionist, of not too many Jews here but you go there and protect our civilization. No! I like Jews here also! Wherever they are they make a great contribution to our civilization and so on. Look precisely because they were stateless, we cannot even imagine European modernity, enlightenment, and so on without the Jew. The very idea of enlightenment universalism came from the Jews who simply, like they were condemned to be universalist, you know. But you know where the, sorry just one thing, you know Netanyahu and others when you ask them why is that place Palestine yours? They said, look at the Bible, it tells everything, and so on. But in the most ironic case of cancel culture, mention the Bible, and you will be excluded as anti-Semitic. Once I did this, in a debate in New York I think some Jew said, but sorry we are attached to our tradition, look at the Bible. So I told them I quoted him I said yes let’s look at the Bible. You know Moses 40 years wandering around Sinai then up on the mountain, Moses dies he already sees the valley and then Joshua takes over, and what to do? And God’s voice tells him Canaan, Canaanites, are down there they are evil people kill them all, men, women, children and and so on. So you know if I were a Jew I wouldn’t insist too much on the Bible, you know. But to avoid a misunderstanding I’m not here condemning the Jews because at that time let’s be frank, everybody was acting like this. We Slavs from some Siberian steps I don’t know where, how did we come to Europe? By invading it and so on. So I’m just saying that in the same way that we talk about invented traditions, we should also treat our uh historical documents, and now I will make a very sad conclusion. I am very skeptical about this idea that originally religions are good. Islam, Judaism, Christianity, it’s only in their political application that they are misused. No, you find a lot of horror and cheat already in the original. So I’m here much more of a pessimist. The lesson of this, I immediately conclude sorry, the lesson of this is, we are left to our own resources, in Lacanian terms theoretical[ly] there is no big other, by big other I don’t mean just God but some global symbolic order which tells you what to do. No, we live in a very dangerous era where no reference to tradition or to science or whatever can tell us what to do.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- &lt;i&gt;&lt;b&gt;I’d also, in the tradition of kind of emancipatory Judaism encourage listeners to consult the Wikipedia of &lt;a href=&quot;https://en.wikipedia.org/wiki/Denis_Goldberg&quot;&gt;Dennis Goldberg&lt;/a&gt; who was imprisoned on Robin Island and actually separated, he was part of the anti-apartheid campaign in South Africa and also in prison there with Mandela, but of course, separated from him because of apartheid and so was alone in prison for the same period of time (Žižek - why because he was a Jew or what?) because Mandela was black and he was a Jew he was white so…&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- Yeah because, I know, sorry to interrupt this, I know the situation there very well, you know even now in India many people, ‘many’ (laughs), some people, (many don’t know about me) hate me because I killed or at least undermined the respect for another sacred cow there, Gandhi. You know when Gandhi was in India, yes he fought against apartheid, but only for the Indian minority. Read Gandhi’s text, my friends republish them now, he doesn’t put in doubt the big separation black, white. He just says we Indians should be counted as white and so on. The second thing you see, this is what I mean [by] moderately conservative. Maybe you read it, I think I already used this somewhere, a couple of months ago at Birkbeck College where I’m temporarily employed, there was a debate with a lady from South Africa, hardline old ANC fighter, and I asked her a frank question. I asked her, in all our media I read all the time about how South Africa is on the border of becoming a failed… on the edge of becoming a failed state blah blah blah, I don’t want to believe Western media please tell me how do I reply to this? And I was almost crying, so sad, you know what she told me? She told me that more and more the predominant atmosphere, [and] feeling,  in the poor black majority, is nostalgia for apartheid. She said that now in memory they remember apartheid as a time where yes they were second-class citizens, but if anything, the standard of living was the same maybe a little bit even higher for the poor black majority. Plus it was a police state which means there was safety. Now society is disintegrating, South Africa has one of the highest rape numbers per capita. You see this is what I want the left to avoid. How these eternal stories, look at Latin America, Bolivia, but now they did not do a wise thing, they cut diplomatic ties with Israel, but till now I believed in Bolivia, because I was friendly with Vice President &lt;a href=&quot;https://es.wikipedia.org/wiki/Álvaro_García_Linera&quot;&gt;Morales Álvaro García Linera&lt;/a&gt; and so on, they were 12 years in power without scaring too much the capital. They succeeded, the standard of living went up and then you remember there was a coup d’état against them, but they won again… So that’s my moderate conservatism,  how to avoid, I will name just three names- Cuba, Venezuela, [and] Nicaragua, where it was a catastrophe, the left has to ask very hard questions here. I don’t want to be that comfortable leftist who organizes a revolution, a revolution fails and then you move back to your academic post and write a thick book [on] how because of the imperialist cunningness and plot it had to fail the revolution. No, the left deserves some authentic success.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- &lt;i&gt;&lt;b&gt;Can we interrogate a little bit more the role of violence in revolution in liberation struggle, whether it’s, as we were talking about the anti-apartheid campaign in South Africa, or well, take any any sort of struggle against injustice… the one we’ve been interrogating so far is obviously with Palestine and Israel, is there an acceptable level of violence to your mind in a liberation struggle?&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- I’m not naive here. I know that in certain conditions, if nothing else, a certain level of violence paradoxically creates the conditions for a peaceful revolution. I forgot the guy’s name, I’m an old senile, but a guy, a black guy (most probably Žižek refers to &lt;a href=&quot;https://en.wikipedia.org/wiki/James_Baldwin&quot;&gt;James Baldwin&lt;/a&gt;)&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I think wrote a wonderful book I quote it, I forgot where in, so new text, where he says that look for example, at America in the 60s and so on, struggle against racism. Yes, Martin Luther King won, but &lt;s&gt;it&lt;/s&gt; [he] also won because it was clear to the white majority there if there is not a threat of violence behind, Luther King wouldn’t be taken seriously. It was the same in South Africa- yes, Mandela won but because the apartheid guys were well aware that there was a much more radical orientation within the ANC threatening with violence. The most tragic example here, let’s look into history, is Haiti, where I mean the exploitation of Haiti till the Haiti revolution around 1800 was breathtaking, let’s say that profits from Haiti brought to the French state, more than half of its income, but what I want to say is this- revolution won. The first generation &lt;a href=&quot;https://en.wikipedia.org/wiki/Toussaint_Louverture&quot;&gt;Toussaint Louverture&lt;/a&gt;, were very fair towards the whites. They just freed slaves but their main worry was to keep the production going, [and] economic collapse to avoid[?]. Then the French, Napoleon is here the bad guy, he brought, arrested Toussaint Louverture, brought him to France and slowly killed him in an abandoned castle blah blah… Then the next generation were more radical, violent, you know what they did? they, I forgot his name, the successor of Toussaint Louverture (&lt;a href=&quot;https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines&quot;&gt;General Dessalines&lt;/a&gt;), he simply gave an order to kill all white people who remained there, with one exception, that’s true, Polish people. You know the story it’s one of the most beautiful revolutionary legend, it again makes me cry, when Napoleon sent an army to Haiti with a horrible order- kill all the blacks, he said, after the revolution it’s not just to enslave them again, kill them all, bring new slaves. Then when the French army was approaching the Haiti[an] black army revolutionaries, they heard some singing and they thought yeah this must be some primitive African dancing, when they come closer you know what they recognize? You know what the black freed slaves were singing? La Marseillaise, and thousands of Polish soldiers said wait a minute, are we here on the right side and they change sides, and so on. Napoleon won, but then the result of all this trauma was this terrifying order to kill all white people. Now you can say you see if you give them freedom what happens, ah! it’s more complex. Because, at precisely this moment the new black rulers took over [and] imitated perfectly the French aristocratic system, they named counts and so on. You know, this violence serves the establishment as a pure copy of European feudal aristocracy there, but Haiti nonetheless did something prohibited too… Do you know that to be reintegrated into [the] world economy Haiti had to pay to France, as for the damage of lost property, slaves, in throughout 19th century it was at some point up to 80% its state budget. You know when the last money was paid to France in 1947, I think, so it consciously they kept, but so I don’t avoid your question, I would put it like this, first my limit is if they’re not well known as a gangster family or what, don’t attack civilian population. Keep it to [the] army there, if the situation is really terrorist, I condone a limited amount of violence. But we should always be aware, again, of this ambiguity that you know you need a violent wink, so that, violence should be more used as a threat to do the necessary compromise. That would be my formula.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- &lt;i&gt;&lt;b&gt;So let’s interrogate the nature of modern conflict, it’s asymmetrical always, whether it’s the British and American imperial forces in Afghanistan, whether it’s the Palestinians against the Israelis.. but in this case, and to say that the Palestinians should confront the Israelis militarily, it’s essentially a death sentence, you can say, great, fantastic, morally justifiable, but completely ineffective as a tactic and it makes me uncomfortable because what I’m essentially saying, the place I’m left in is essentially justifying the attack on civilians which something morally ethically for me I find deeply distressing, deeply upsetting but I don’t see any other way in terms of an effective military campaign, an effective terrorist campaign the use of limited violence to achieve political ends. You know if they attack military bases they will all die, so what else can they do if not kill the civilians and I find that deeply deeply uncomfortable because like I said…&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- Okay now I will accept this totally pragmatic ruthless thinking, but shouldn’t have then focus a little bit more on some effectively violent groups of settlers or whatever, and not precisely that part which was closest to them, in some sense. I mean here I agree with you let’s begin by this - the situation is tragic in some sense. You cannot propose a simple solution and so like this is the formula and so on, no I see your point of course, but again as you already pointed out, not only this means suicide for Palestinians, but in the long term such suicidal attacks eternalise war and I don’t see then any peaceful ANC, Mandela or whatever arising out of this, and bringing peace. That’s what horrifies me, you know. I would even accept attacksm, here we agree, if there is a hope that they will serve the way. The threat with violence was necessary to bring in Mandela, to bring in Martin Luther King, and so on. Otherwise I, what really as friend of the Jews and of Palestinians, I see really it scares me again, a new wave of anti-Semitism. It will, I don’t trust Zionists but I also see very clearly anti-Semitism where there is one. And what I’mm again, what horrifies me is this identification of that anti-Semitism as the result of this war will be elevated into one of the main markers of anti-colonial struggle. Although you know again I like to complicate things. The Jewish side is not clean here. You know I did something cunning, I read &lt;a href=&quot;https://en.wikipedia.org/wiki/Theodor_Herzl&quot;&gt;Theodor Herzl&lt;/a&gt;, founder of Zionism, you know to whom, (good for his soul, he didn’t send it), but you know that he wrote a letter to &lt;a href=&quot;https://en.wikipedia.org/wiki/Cecil_Rhodes&quot;&gt;Cecil Rhodes&lt;/a&gt;, asking him for advice, and would he invest money,  addressing him in terms of colonisation, you colonised half of Africa help us to colonise it there. Second thing, he explicitly flirted, Herzlm already with the Western-right, using these terms of today’s right that the state of Israel, a Jewish State, there will be the impregnable wall to protect Western Europe from Oriental barbarism. So that’s the mega tragedy of Zionism, that what the greatest victims of European anti-Semitism chose the way to oppress others there, and got caught into this way. Here, I hated &lt;a href=&quot;https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad&quot;&gt;Ahmadinejad&lt;/a&gt;, you know the ex-president of Iran, I even at some point was prohibited to enter because there were some elections 10 years ago where Ahmadinejad won by cheating and so on and I wrote some letters. But you know when he said something that others also said, okay Germans did something horrible which Ahmadinejad didn’t admit, but let’s admit it, Holocaust, isn’t there something cheating in giving them the land in Pal- wouldn’t it be normal for Germans, listen end of World War II you also have a lot of victims which means empty land, give, why don’t you, you who killed six million Jews, give him I don’t know the city of Hamburg, and you know there is some cheating in it. As if you know as if I borrow from you 1 billion dollars, and then instead of paying you back I say take that guy’s money. You know the situation is desperately complex. This is why this is not a pessimism. The starting point is there is no clean solution here.&lt;i&gt; &lt;b&gt; PolitcsJoe: And as you know as well as the word “but”, “complex situation” is a banned phrase in this conversation as you said at the beginning… &lt;/b&gt; &lt;/i&gt;especially by this now rediscovered, is totally pro-israeli pol- yeah they, you know an article in I forgot which German daily newspaper, attacking me said, they put it as a title of their text “Hamas has no context”. Like it’s madness! like you know every mention of context is… but then I answered in, I think quite that even if we… it’s more complex, just condemn Hamas, of course, we should inquire into context because for example, there are dozens, hundreds of books of the origins of Nazism. And it’s clear that there was a crisis in Germany experienced by millions of people economic crisis and so on, and Hitler profited from that crisis offering a certain anti-Semitic narrative and to many ordinary people things were all of a sudden clear. You know like ah now we know, behind all of these are the Jews, and so on. So here is a nice example of how contextualising doesn’t mean justifying in any way. Evil can be radical crazy evil but it’s always a product of certain circumstances. It exploded in certain circumstances like the same again in Haiti the second generation who killed all the white people, yes I agree it was horrible but let’s take a look at how breathtaking the exploitation in Haiti was. Okay I will not go on, I talk too much.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- &lt;i&gt;&lt;b&gt;No, not at all, not at all, I think there’s one other sort of area I’d like to explore on Israel-Palestine before we maybe move on. So between the two extremes the two totalitarian positions that we’ve discussed the one of Hamas and the one of Ben-Gvir and Smotrich that sort of hard, hard right Zionist position but
-it’s not just only Zionist, this sort of greater Israel idea, the expulsion of the Palestinians from Gaza, and if you look at demographic changes happening in Israel the younger generation skew much more to that extreme right-wing politics, they skew much more towards the politics of the likes of Ben-Gvir and Smotrich and that surely means looking to the future whether there’s a solution whether, without sounding like Tony Blair, a third way somewhere in between those two total extreme poles, because the Israeli population electorally is going to move towards that extreme, so if anything the prospect of peace and a lasting peace, seems further away than perhaps it ever has been…&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-- First I would say something that may surprise you. I read a good analysis, leftist analysis, of the situation in France and Belgium, and they discovered the same thing there, among these, I don’t like the terms, “pro-terrorist” Arab immigrants. So it’s not that they, we were not open enough to integrate them, no, most of this young generation of terrorists who did that &lt;a href=&quot;https://en.wikipedia.org/wiki/November_2015_Paris_attacks&quot;&gt;concert hall bombing&lt;/a&gt; (Bataclan) remember a couple of years ago in Paris, do you know that there they are second generation? It’s the same paradox that the older generation, their parents were much better integrated into French society. So the second thing one has to mention, I’m sorry if it will sound racist, is that a lot of this younger generation are East European Jews who are from Russia and other East European countries who tend to be much more aggressive, racist than the first generation. There really is something very dark, this is the true dark side of the East European till ’89 communism. For example, maybe you know the story I spoke with a German dissident I don’t like him too much but okay he was well known &lt;a href=&quot;https://en.wikipedia.org/wiki/Wolf_Biermann&quot;&gt;Wolf Biermann&lt;/a&gt; singer who immigrated to the West, friend of &lt;a href=&quot;https://en.wikipedia.org/wiki/Bertolt_Brecht&quot;&gt;Brecht&lt;/a&gt; and so on, and he told me that in early 90s immediately after the reunification he went to some big ecological meeting in ex-East Germany and there was there a strong group of, well to call them by their name, Neo-Nazi eco-people, ecologically, and he told them, but you are for Hitler, you know what answer he got? He told me one of the most terrifying answers that I got, no, we criticise Hitler because Hitler did some good things like getting rid of the Jews but also he developed car industry he built highways and so on which was horrible you know this most obscene version so… This is what always surprised me that even now, even now, the right wing Neo-Nazi parties are much stronger in ex-East Germany than in the west. This is what again really makes me a pessimist, that what you described as something going on among the Israeli youth is also going on among the Palestinians up to a point… even in the United States look [at] all of these Proud Boys and so on and so on, and what really makes me afraid is that liberal democracy the way we knew it, is coming to an end. Let’s for a moment forget about West Bank, Israel let’s move to the United States. I think United States it’s really in danger on the edge of the civil war. I forget his name because he’s a disgusting nobody, who is now the new house speaker, it’s not McCarthy, it’s the
-Trump new one young one, he’s like the Trumpist (&lt;a href=&quot;https://en.wikipedia.org/wiki/Mike_Johnson_(Louisiana_politician)&quot;&gt;Mike Johnson&lt;/a&gt;) but the ultra Trump… after people like him and &lt;a href=&quot;https://en.wikipedia.org/wiki/Ron_DeSantis&quot;&gt;DeSantis&lt;/a&gt; we will even have, I predict, a nostalgia for Trump because Trump was very careful you know not to pass a certain limit, because this guy openly advocates violating the constitution, problematising democracy. People notice very nicely that he never refers to the United States as democracy, he always uses the term republic. Republic in this Christian fundamentalist sense and so on and so on. So I don’t have a good counterpoint to you, my counterpoint is much more sad is that the whole world is moving in this direction. Look at the catastrophe barely avoided, if it is avoided, remember a couple of weeks ago the first round of the presidential elections in Argentina, where I again, I prefer to erase the names of really bad people, some right-wing liberal populist, again he went to the end, a nightmare, and I always use this when people ask me about freedom, you know since I also published by Bloomsbury a book on freedom (&lt;a href=&quot;https://www.bloomsbury.com/uk/freedom-9781350357129/&quot;&gt;Freedom, a disease without cure&lt;/a&gt;), and I try not to relativize the term of freedom but to see many dimensions contradictory he radicalizes this guy, something with M, the notion of freedom. Did you read, I couldn’t believe my eyes when I read it, I had, you know I like this scene from old cartoons Tom and Jerry when you see something and your eyes jump out and turn the air, you know what he advocates? He said this is a new freedom to solve people from poverty, to give to poor people the right to sell their organs and their children. Sorry, this is liberal capitalism today. And so that’s the cause of my pessimism. Yesterday at a debate on that strange place, I liked it, Royal Institute, you know somebody attacked me along these lines with a very good question no, somebody told me, I like but your messages we are &lt;em&gt;**&lt;/em&gt;ed up, no trouble, but you in any case you are old you will soon die, so you don’t care, what about the majority of young people here? Can you/ shouldn’t you give them some hope? In my counterpoint was that his question is very ambiguous. Does he mean that that it’s true that we are [ __ ] up just out of respect for innocent and young people we should give them some hope? I totally oppose this this means patronising them. Or does he mean there is hope, your analysis is wrong. And I would like to believe I am, that there is some hope, my motto is the one from old Frankfurt School, &lt;a href=&quot;https://en.wikipedia.org/wiki/Max_Horkheimer&quot;&gt;Max Horkheimer&lt;/a&gt; says this, a propo of Nazism, that our stance today should be pessimism in theory, optimism in practice. And I try to follow it, I’m generally a pessimist but whenever there is a chance, whatever to do I was engaged against Putin for Pussy Riot and so on,  I’m in contact with this may surprise you, with some Guerilla group in Philippines and so on, whereverm I quite liked Aristide, &lt;a href=&quot;https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide&quot;&gt;Jean-Bertrand Aristide&lt;/a&gt; in Haiti, he was dirtily manipulated by the United States, he was not a crazy Castro like utopian, he was very modest, honest but it was too much, so for a long time I supported &lt;a href=&quot;https://en.wikipedia.org/wiki/Syriza&quot;&gt;Syriza&lt;/a&gt; and I still am not sure could they…my reproach to them is again moderately conservative because they complained how the European Union treated them, but what did they expect? you know yeah like I think that absolutely use any… in India there I’m for Muslims engaged in things against the horror that Modi is doing now. Modi is playing the same game as Trump and the new right, some people protested, non-hindus, that they don’t feel safe you know what was Mod’s answer? public, Mod’s answer was yeah and it’s good so, so that you will know that you are the threat of the nation, and so on. It’s literal falling apart of this basic safety of the public order. Now in my old age this may sound horrible to you but the right is today the one which is more and more populist, violent, and so on. And I think now I will say something shocking to you, it’s an old story but maybe I hope you are not an idiot, not to you but for others… maybe the left should begin to use the term moral majority, look many people I don’t think there were most anti-semites who demonstrated here hundreds of thousand and there are for Palestine and there are probably many more who are afraid to, my friends, Israeli friends, are now arrested in Israel and so on, we should address them we should maybe drop this violence, public violence, speech and, no, my image of the United States is this one with a little bit of irony but I think it’s true. Look, my old story when on the 6th of January the Trump mob occupied the Congress, my leftist friends were crying, we should have been doing it this is our, I told them no, sorry you live in the wrong time. Today the game the rules of the game have changed. If we mean by postmodernism, this cynical, relativism, flirting with violence, blah blah then if there ever was a postmodern president, historicist, relativist, it’s Donald Trump and let’s face it if there ever was a person who embodies [it] at its best the this moral majority simple in a progressive sense let’s say conservative in the sense of there should be basic decency attitude is (indeed?) Bernie Sanders, I think we should not leave all these voters to the new right. I didn’t meet Sanders himself, but I spoke with his ghost writer with some people around him who told me Bernie knows this, he, Bernie said when there were elections, Trump versus Hillary he said something ingenious he said, don’t worry about because Democrats under Hillary fell into this trap. They worried about the middle, will w, e if we come to radical alienate the this undecided middle classes. Bernie said no, we should aim at Trump’s voters… many of them are disillusioned poor whites and so on, they should be our target that would be if you ask me my politics today.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-The rest of the interview goes on to discuss culture and movies, with an insight to Oppenheimer and Bhagavat Gita, check the &lt;a href=&quot;https://www.youtube.com/watch?v=zkQ0vEYry20&quot;&gt;the interview&lt;/a&gt; from 58:06.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-submit additional resources / corrections:
-&lt;br /&gt;&lt;/p&gt;
-&lt;form action=&quot;https://formspree.io/f/mqkvrdjn&quot; method=&quot;POST&quot;&gt;
-  &lt;label&gt;
-    your email:
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; /&gt;
-  &lt;/label&gt;
-
-  &lt;br /&gt;
-   &lt;br /&gt;
-
-  &lt;label&gt;
-    your message:
-    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br /&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;supported by this text &lt;a href=&quot;https://www.lacan.com/zizlacan3.htm&quot;&gt;here&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ahana Deb</name></author><category term="transcripts" /><summary type="html">[This is a corrected transcript of this interview of Slavoj Žižek by PoliticsJoe. The hard-to-find references were contributed by Roger Ferran i Baños.]</summary></entry><entry><title type="html">The Delusion of Green Capitalism</title><link href="http://localhost:4000/transcripts/delusion-of-green-capitalism/" rel="alternate" type="text/html" title="The Delusion of Green Capitalism" /><published>2023-12-10T00:00:00+05:30</published><updated>2023-12-10T00:00:00+05:30</updated><id>http://localhost:4000/transcripts/delusion-of-green-capitalism</id><content type="html" xml:base="http://localhost:4000/transcripts/delusion-of-green-capitalism/">&lt;p&gt;&lt;b&gt;[The following is the transcript of a part of the lecture by Slavoj Žižek at CUNY (New York) found &lt;a href=&quot;https://www.youtube.com/watch?v=yzcfsq1_bt8&quot;&gt;here&lt;/a&gt;. Unfortunately the whole speech, which used to be &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqbkkxdmhFd0c5SXVZdEdfVTdfQklZR2xUanRWQXxBQ3Jtc0trclR3UGxsOVZJLTYwd3gteDhZQXlLc3o3eDRXTHQ1azFqa1ozdnBMQXlqX2EyaDJsNkpIeHVlMEdrY09JNUNWMWk3Zm5hMzh4d3RIbFA1Mm9DNUhMOWFZMElObEdvTzNmdkNlYi1zdDRSS29GNnFybw&amp;amp;q=http%3A%2F%2Ffora.tv%2F2011%2F04%2F04%2FSlavoj_Zizek_Catastrophic_But_Not_Serious&amp;amp;v=yzcfsq1_bt8&quot;&gt;here&lt;/a&gt;,  is no longer available.] &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-So, there is, I claim, something deceptively reassuring in our readiness to assume full guilt and responsibility for the threats to our environment. We like to be guilty since if we are guilty it all depends on us, we pull the strings, so in principle we can also save ourselves by simply changing our lives. What is really difficult for us to accept is that we are reduced to the purely passive role of an impotent observer who can only sit back and watch what his fate will be. To avoid such a situation, we are prone to engage in frantic, obsessive activities- recycling paper, buying organic food, or whatever, just so that we can be sure we are doing something, making contribution[s]. Like a soccer or baseball fan who supports his team in front of a TV screen at home, shouting and jumping up from his seat, in the superstitious belief that this will somehow influence the outcome.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-It is true that the typical form of fetishistic disavowal à propos ecology is that ‘I know very well that we are all dead[?], but I don’t really believe it, so I’m not ready to do anything really radical and change my way of life’.
-But I claim there is also the opposite form of disavowal, something like, ‘I know very well that I cannot really influence the process which may lead to my ruin, an earthquake or whatever. But it is nonetheless too traumatic for me to accept this, so I cannot resist the urge to do something even if I know it is ultimately meaningless.’
-Do we not buy organic food for much the same reason? Who really believes that those semi-putrefying and overpriced apples are really healthier? The point is that by buying them we are not just buying and consuming a product, we are simultaneously doing something meaningful, demonstrating our capacity for care and global awareness, participating in a noble, large, collective project.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-And I think (I don’t have time to develop it) that there is something of this same order which is no longer just a marginal phenomenon, but is more and more assuming a central role in how today’s capitalism functions. To me, the best example (I’m sorry if some of you know this, nonetheless I think it is important to repeat it) would be, what I call, the Starbucks logic. You know what you encounter when you go to a Starbucks coffee shop- basically the message is “true, our coffee is a little bit more expensive, but one cent from every coffee goes to Guatemala children, 5 cents go for water, blah blah blah”, in other words, the logic is the following one, and in a perverse way I like it. The logic is, in the old days, we were consumerists, and then we felt bad, and if you wanted to pretend to be an ethical being, you had to do something to counteract it. But the offer here is, we make it simpler for you, we make the product, you can remain just a consumerist, because your altruistic nature, solidarity with poor, it’s included into the price (you know).&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;write to me if you can find the whole lecture: 
-&lt;br /&gt;&lt;/p&gt;
-&lt;form action=&quot;https://formspree.io/f/mqkvrdjn&quot; method=&quot;POST&quot;&gt;
-  &lt;label&gt;
-    your email:
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; /&gt;
-  &lt;/label&gt;
-
-  &lt;br /&gt;
-   &lt;br /&gt;
-
-  &lt;label&gt;
-    your message:
-    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br /&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;</content><author><name>Ahana Deb</name></author><category term="transcripts" /><summary type="html">[The following is the transcript of a part of the lecture by Slavoj Žižek at CUNY (New York) found here. Unfortunately the whole speech, which used to be here, is no longer available.] So, there is, I claim, something deceptively reassuring in our readiness to assume full guilt and responsibility for the threats to our environment. We like to be guilty since if we are guilty it all depends on us, we pull the strings, so in principle we can also save ourselves by simply changing our lives. What is really difficult for us to accept is that we are reduced to the purely passive role of an impotent observer who can only sit back and watch what his fate will be. To avoid such a situation, we are prone to engage in frantic, obsessive activities- recycling paper, buying organic food, or whatever, just so that we can be sure we are doing something, making contribution[s]. Like a soccer or baseball fan who supports his team in front of a TV screen at home, shouting and jumping up from his seat, in the superstitious belief that this will somehow influence the outcome.</summary></entry><entry><title type="html">Against The Right, Brooks</title><link href="http://localhost:4000/bookreview/against-the-web/" rel="alternate" type="text/html" title="Against The Right, Brooks" /><published>2023-12-10T00:00:00+05:30</published><updated>2023-12-10T00:00:00+05:30</updated><id>http://localhost:4000/bookreview/against-the-web</id><content type="html" xml:base="http://localhost:4000/bookreview/against-the-web/">&lt;p&gt;currently writing&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-\&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;write your thoughts: 
-&lt;br /&gt;&lt;/p&gt;
-&lt;form action=&quot;https://formspree.io/f/mqkvrdjn&quot; method=&quot;POST&quot;&gt;
-  &lt;label&gt;
-    your email:
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; /&gt;
-  &lt;/label&gt;
-
-  &lt;br /&gt;
-   &lt;br /&gt;
-
-  &lt;label&gt;
-    your message:
-    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br /&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;</content><author><name>Ahana Deb</name></author><category term="bookreview" /><summary type="html">currently writing</summary></entry><entry><title type="html">On Faith</title><link href="http://localhost:4000/thoughts/on-faith/" rel="alternate" type="text/html" title="On Faith" /><published>2023-12-07T00:00:00+05:30</published><updated>2023-12-07T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/on-faith</id><content type="html" xml:base="http://localhost:4000/thoughts/on-faith/">&lt;p&gt;A lot of thoughts and ideas have been circling in my head endlessly for the last few days, and only a slow Thursday and an empty office gave me permission to put them down on paper. There’s not much direction here or development for that matter, but that is probably symptomatic of the ideas themselves.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Lately, I’ve been thinking a lot about religion and the distinction between organized and non-organized forms of it. The inherited repulsion to religion owing to my immigrant existence across the fault lines of Bengal, has always pushed me further away from all forms of religious texts and consequently rendered my arguments against religion perfectly anecdotal, weak, and easily refutible. I don’t know what the Bible says about same-sex marriage, I can only show you how it has affected the world. Maybe this perception of mine of how religious texts or the world around it works finds its own counterpart in fanatically religious people; we both have no idea of what is in the book, but we confidently arm ourselves on different sides of it.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-My atheist friends would strongly argue, that not every invention and imagery that has been conjured into existence by a power-seeker needs to be studied, verified, or debunked. The responsibility to be truthful lies with the storyteller, it would be quite an endless and tedious pursuit to verify every hallucination of every “patient” in every mental health institution. Although I do not exactly disagree with this point, a distinction must be made for the imagery that has survived (and quite ruthlessly) the test of a few centuries. When you look at the current Hindu nationalist government in India, this matter becomes clearer. The religious tinge is not subtle in their speeches and campaigns, they attack the most unprotected psychological part of the human brain, the fear of the unknown and the other, the existence of which the privileged section of the Indian left even refuses to accept. Two groups of people provoked by this fundamental fear and acting under the perceived threat of non-existence are preached to by the left- don’t be afraid, both of your gods do not exist. Was religion created by the state as a weapon, or was it created by the people, in this primitive need for self-preservation, that we currently do not provide an acceptable alternative for? But I digress…&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-A lot of my thoughts and arguments often boil down to the one simple question — are humans inherently good or bad? There’s one supplementary question of what it really means to be good or bad, so I may rephrase the question as, do humans necessarily act in self-interest, and only act in the interest of others when a visible chain of events connects it to theirs? I don’t have an answer. Even in my manufactured honesty as an author (of this “essay”), I cannot claim to be a “good” person.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-But back to religion. Today morning I had a session with my therapist, and we discussed the current issues I’m facing at my workplace among other daily struggles in my life which I won’t bore you with here. But it made me think, about how I go about my life, and how my perceived rationality is in reality extremely irrational. I’ve noticed quite often, the optimism yet the cold rationality with which the “religious” people I know take on the world, one thing leads to the other, one action secures an event, if it doesn’t, we have to reconsider the next action. God will take care of me. Whereas for me, the world is a landmine of cruel probabilities, nothing guarantees anything, and nothing is assured, every day I play a lottery against the lawlessness of nature and hope for the best. Life is a highly stochastic environment with sparse rewards, and no underlying fixed model you can learn, nothing you can prepare yourself for. One day you’re awaiting a positive response on your job application, and the same morning some unrelated tragic event subsumes your life. Nothing guarantees anything, and you can’t rely on anything. Every event has the potential to ruin your day or life, and you’re armed with nothing as you step onto this chessboard every morning. The “rationality” we atheists take our pride in, is it in reality our extreme helplessness in the irrationality of life? Handing your faith to imagery, to this assurance of certainty, isn’t that a more rational approach to life, in this continuously changing stochastic paradigm of existence?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;write your thoughts: 
-&lt;br /&gt;&lt;/p&gt;
-&lt;form action=&quot;https://formspree.io/f/mqkvrdjn&quot; method=&quot;POST&quot;&gt;
-  &lt;label&gt;
-    your email:
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; /&gt;
-  &lt;/label&gt;
-
-  &lt;br /&gt;
-   &lt;br /&gt;
-
-  &lt;label&gt;
-    your message:
-    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br /&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;</content><author><name>Ahana Deb</name></author><category term="thoughts" /><summary type="html">A lot of thoughts and ideas have been circling in my head endlessly for the last few days, and only a slow Thursday and an empty office gave me permission to put them down on paper. There’s not much direction here or development for that matter, but that is probably symptomatic of the ideas themselves.</summary></entry><entry><title type="html">Be Real</title><link href="http://localhost:4000/thoughts/be-real/" rel="alternate" type="text/html" title="Be Real" /><published>2023-06-05T00:00:00+05:30</published><updated>2023-06-05T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/be-real</id><content type="html" xml:base="http://localhost:4000/thoughts/be-real/">&lt;p&gt;“Guys,
-quick, I’ve to do my BeReal!”
-I heard, in a heavy French accent right behind my back. I was on a day trip to Cadaqués, in Catalunya, and our trip guide Albert insisted that we go the “traditional” way, on a cruise ship from Roses. It was a bright Saturday morning, clear skies, and the unforgiving June sun banished me to the front corner of the ship, right in the shadow of the Captain’s cabin. The air was clean, I leaned against the railing, perhaps too precariously, and watched the wide foam trail our ship left behind on the turquoise sea, the paddle boaters sitting down for a better balance as the waves from our ship raced towards the rocky shores. Two speedboats rushed past us, keenly aware of our eyes on them, along with a group of fishermen, although I suspect they were on more of a pleasure than a work affair.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Two French girls, rushed past me to the front of the ship, also possibly disturbed by the sun, but ended up choosing a spot right in front of me. The one right next to me was in a tight black dress, spoke fluently in French to the other, and occasionally broke into songs in her language. The gust blew her auburn curly hair into my face a few times, but I didn’t complain and continued to fiddle with the camera in my hand. The views of the barren rocky shore grew monotonous, and halfway through our journey, I found myself distracted by the occasional English they spoke. They started out taking some pictures for the “gram”, posing with themselves hanging halfway outside the railing. Just as I was praying that the support doesn’t give away, a third girl ran up to them and exclaimed, “Guys, quick, I’ve to do my BeReal!”, and they posed together right behind me, and I found myself questioning if I should move or not, which would give away the gross intrusion of privacy I was engaged in, so I stayed.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-BeReal. It wasn’t popular in India when it came about, and maybe it still isn’t now, but I heard about it while researching the effects on mental health from social media, especially Instagram. While Insta offered you an endless supply of self-hate fuel by methodically exposing you to lifestyle envy, BeReal promised a unique respite. For those who don’t know, the app prompts you to take a picture of your day at a random time, both with a front and back camera, to show what you’re really doing, the goal being taking away the pretense from social media. But does this really assure any kind of authenticity? Does it really provide relief from this strategic and banal self-representation we engage in every day? As a 25 years old grad student, social media is the online equivalent of hard drugs for my self-esteem so I did not dare to sign up just to give it “one try”, but I found myself contemplating throughout the trip, what it means to be ready, ready to perform an act of self-expression. “Look at the sea, this is my best BeReal ever”, she exclaimed to her friend, who I suspect nodded in agreement. Does BeReal show you the real life of your acquaintances, or is it a more calibrated way of letting your friends know you’re interesting, even when you’re unprepared, even when its not choreographed, almost lending some authenticity to the edited, planned, and timed Instagram posts that’ll inadvertently follow? The exhibition of a truly effortless, seductive, and therefore more enviable lifestyle, once a day, every day.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-I took a few more pictures, as the ship banked towards Cadaqués, the small white buildings with their beige roofs almost blinding in the sun against the dark still sea. The otherwise quiet town was littered with tourists, bars, and quaint shops selling everything from Indian beach wear, to Indian hippie hemph essentials. Young children ran across the narrow uphill streets ornate with overgrown bougainvilleas, squealing and shouting in languages I’m sure only they understood. We spent the first hour guided by a French historian, Myriam, who walked us, in broken English, through the churches and folk tales surrounding Dali and Gala, and etymologies of Hebrew and Catalan words, which my boyfriend later assured were not entirely correct. I believe it was lost in the labored French-english translation Myriam wasn’t expecting to do that day.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-A few hours and a perfectly cooked beef tenderloin later, I found myself standing against one of the bright white restaurant walls, facing the sea, trying to make a quick sketch of this picturesque frame which bore a stronger resemblance to Santorini than Catalunya. The bustling crowd behind me grew slower and quieter, as the day moved on, and I was pleasantly interrupted by a Cuban photographer who politely asked if I could pose for a few pictures, and I obliged. I wrapped up my sketch and called my friend who was sunbathing on the beach, and we went to get some dessert. Understandably, as it was close to 4 pm, the entire state of Catalonia was on their third nap of the day, except for one ice cream shop, with a queue of parents and sea-drenched children covered in sand waiting outside. We got our ice creams and started to look for our ride home to Barcelona, and just as I was walking past the beach, my eyes caught the two French girls in their swimsuits and a towel around their shoulders, sitting on opposite ends of a bench, deeply immersed in their phones.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-The sun was still bright, I could feel the eyes of seagulls narrowing in on the cup of mango ice cream I held tightly in my hand. We turned around to take one last look at the shores of Cadaqués before we start rushing towards the bus station. The still waters, the busy group of scuba teachers preparing a group of excited tourists for their first dive, an old couple setting up a picnic blanket on the sand like they’ve done a thousand times before, it was unprepared and banal; like living the same day again and again, the new faces that found themselves on the shore everyday merging into one another; it was so boring and expected that I had forgotten to take out my phone.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;write your thoughts: 
-&lt;br /&gt;&lt;/p&gt;
-&lt;form action=&quot;https://formspree.io/f/mqkvrdjn&quot; method=&quot;POST&quot;&gt;
-  &lt;label&gt;
-    your email:
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; /&gt;
-  &lt;/label&gt;
-
-  &lt;br /&gt;
-   &lt;br /&gt;
-
-  &lt;label&gt;
-    your message:
-    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br /&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;</content><author><name>Ahana Deb</name></author><category term="thoughts" /><summary type="html">“Guys, quick, I’ve to do my BeReal!” I heard, in a heavy French accent right behind my back. I was on a day trip to Cadaqués, in Catalunya, and our trip guide Albert insisted that we go the “traditional” way, on a cruise ship from Roses. It was a bright Saturday morning, clear skies, and the unforgiving June sun banished me to the front corner of the ship, right in the shadow of the Captain’s cabin. The air was clean, I leaned against the railing, perhaps too precariously, and watched the wide foam trail our ship left behind on the turquoise sea, the paddle boaters sitting down for a better balance as the waves from our ship raced towards the rocky shores. Two speedboats rushed past us, keenly aware of our eyes on them, along with a group of fishermen, although I suspect they were on more of a pleasure than a work affair.</summary></entry><entry><title type="html">The Case For Dark Humor</title><link href="http://localhost:4000/thoughts/the-case-for-dark-humor/" rel="alternate" type="text/html" title="The Case For Dark Humor" /><published>2022-02-25T00:00:00+05:30</published><updated>2022-02-25T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/the-case-for-dark-humor</id><content type="html" xml:base="http://localhost:4000/thoughts/the-case-for-dark-humor/">&lt;p&gt;There’s something very profoundly surreal about watching our generation respond to an imminent WWIII in memes and satire, and though some might find it culturally insensitive and “very gen-z”, a look back in the pre-WWII era shows us that perhaps it is neither.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Back in 1916, in the aftermath of the first world war, poet Hugo Bell founded the Cabaret Voltaire in Switzerland, a club which set the stage for artistic expression in the form of sound poetry, cut-up writing and even sculpture. The overwhelming tone of the art here was anti-war and anti-establishment, and a very open rejection of the gatekeepers of art in the modern world, embracing irrationality, and illogicality.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-The art movement which would soon be referred to as Dadaism, spread quickly across Europe, in Paris, Cologne, Netherlands, etc. It was characterized by art which can be called “silly” or “nonsensical” and quickly descended into absurdist humor. Marcel Duchamp’s famous work on a postcard with Da Vinci’s Monalisa, involved drawing a mustache on her face.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/image1.webp&quot; alt=&quot;image tooltip here&quot; /&gt;
-&lt;em&gt;Marcel Duchamp, 1919, L.H.O.O.Q.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-The nonsensical art movement spread all across the world and became the birth place of what we know as Surrealism, and would see artistic contributions from non other than Salvador Dali, from his timeless still frames to his 1929 surrealist short film Andaluský pes&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; (An Andalusian Dog), created by both Dali and Buñuel which contains surreal scenes of a man cutting an eye with a razor, a woman holding a severed human hand, a man’s hand infested with ant, all seemingly disconnected from each other. The movie rejected the traditional understanding of a plot, with disjoint chronology and a dream-like narrative.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/image2.webp&quot; alt=&quot;image tooltip here&quot; /&gt;
-&lt;em&gt;Scene from Andaluský pes (An Andalusian Dog), 1929, a man holding a razor to a woman’s eye&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Francis Picabia, another great artist propagating the movement, created the Tableau Rastadada in 1920, where he created a collage of himself with cutouts from various magazines, to depict himself as a casanova.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/image3.webp&quot; alt=&quot;image tooltip here&quot; /&gt;
-&lt;em&gt;Francis Picabia, Tableau Rastadada, 1920&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-The reason for the rise of this movement is highly debated, although a crucial motivating factor might have been the helplessness of artists and the youth in the face of a war-torn Europe. The movement began on the graveyard of hopes after WWI, as a defiance of the institutions of art, and as a rejection of every rationality, embracing the absurd-ism of reality.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-The creation of absurdist art using pre-made material, nonsensical messaging, surrounding an imminent war, draws a natural parallel to today’s dark humor among the youth, in the face of life-changing crises in the form of war, climate change, pandemic, and political unrest all around the world. The constant accessibility of negative news from all corners, the live streaming of air-strike sirens from the capital of a country being invaded, the pleas of help from citizens not alike to us, have only increased the feeling of deep inconsequentiality.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Perhaps what comes off as ‘insensitive’ to certain viewers, is a desperate attempt from the young to hold on to hope, maybe embracing absurdism in the face of a cruel, unforgiving reality, is the only way to survive through it. Perhaps the realisation of this inconsequentiality of our actions, our protests, and our petitions can only be dealt with that, humor.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;write your thoughts: 
-&lt;br /&gt;&lt;/p&gt;
-&lt;form action=&quot;https://formspree.io/f/mqkvrdjn&quot; method=&quot;POST&quot;&gt;
-  &lt;label&gt;
-    your email:
-    &lt;input type=&quot;email&quot; name=&quot;email&quot; /&gt;
-  &lt;/label&gt;
-
-  &lt;br /&gt;
-   &lt;br /&gt;
-
-  &lt;label&gt;
-    your message:
-    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br /&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
-&lt;/form&gt;
-
-&lt;p data-content=&quot;footnotes&quot;&gt;&lt;br /&gt;
-&lt;br /&gt;
-references:
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Marcel Duchamp 1887–1968, dadart.com &lt;a href=&quot;http://www.dadart.com/dadaism/dada/035a-duchamp-cage.html&quot; target=&quot;_blank&quot;&gt;(here)&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The video used to be  &lt;a href=&quot;https://www.youtube.com/watch?v=cB7gd_t6WMQ&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;, but has since been removed. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ahana Deb</name></author><category term="thoughts" /><summary type="html">There’s something very profoundly surreal about watching our generation respond to an imminent WWIII in memes and satire, and though some might find it culturally insensitive and “very gen-z”, a look back in the pre-WWII era shows us that perhaps it is neither.</summary></entry><entry><title type="html">Metoo And Cancel Culture</title><link href="http://localhost:4000/thoughts/metoo-and-cancel-culture/" rel="alternate" type="text/html" title="Metoo And Cancel Culture" /><published>2020-05-14T00:00:00+05:30</published><updated>2020-05-14T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/metoo-and-cancel-culture</id><content type="html" xml:base="http://localhost:4000/thoughts/metoo-and-cancel-culture/">&lt;p&gt;&lt;b&gt; [note: This contains my outdated take on cancel culture, written by a young(er) and (more) immature and violent version of me in the wake of the “me-too” movement in the upper social classes of Jadavpur University (JU), my alma mater. The arguments for this half-baked post were borrowed from this brilliant &lt;a href=&quot;https://www.youtube.com/watch?v=OjMPJVmXxV8&amp;amp;t=75s&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt; by Natalie Wynn. The original blog was published in 2020, with a note claiming to be a concise summary of said video, and I have no doubt I did not succeed. Please watch the video instead, this blog is here for documentation purposes. Thank you.] &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;I understand the risks of being misinterpreted when approaching a topic so ill-debated and nuanced, I urge you to PLEASE reach out to me, CORRECT me where I’m wrong, and ENGAGE in a debate. I’m open to every varying opinion from anyone. Consider all possible trigger warnings, ask me to add more as you feel fit.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-[I understand that presenting an anti-call-out argument risks it being immediately appropriated by some people to advance their bigoted agenda. If you don’t believe that women should have equal fundamental rights as men or some sugar-coated variation of this, I disagree with absolutely everything you have to say in this regard. We proceed with the understanding that we both want justice, a more equal space, and most importantly, we both are feminists.]&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-When the #metoo movement began, it began as a movement of gender rights, of justice, the ever echoing call to break down the hierarchy of gender and power. From R. Kelly to Harvey Weinstein, #metoo called to bring down men who could not be held accountable in any way other than vigilante justice. This part is important but let’s put this aside for a while now.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-In JU, what we owe to #metoo and call-out culture is the environment that it has tried to create, to allow those abused to come forward and openly talk about the issues and problems in the campus. I doubt the Google Drive incident could’ve come out so openly and strongly if it weren’t for the waves of #metoo that had pushed the boundaries of our understanding of abuse, repeatedly. It taught us that rapists are not necessarily the stereotypical men who hide in bushes and hold you at gunpoint, they are people who walk among us, are even nice to us. We have actively dismissed the argument “but he never did this with me, so…”, and I can’t emphasise how important this was. There are lot more barriers to break, and a lot more for us to learn. I can go on, but the positives of this movement have been written and spoken about again and again (I’ll leave some links of my favorite books/articles down below if you want to read), but there are things which haven’t yet been brought to light as clearly. Gender discrimination is as old as time itself, but the internet is new, this form of the movement is new, therefore its criticism is also new. I’ll lean on my Mommy to explain this, so let’s get to the problems that are happening right now. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-There are essentially two types of popular arguments that you’ll find on the internet over this- one group claiming that the call-out culture has ruined intimacy and flirting, it has gone “too far”, men can’t even talk to women anymore, and something needs to be done to stop this nonsense. The other group of feminists and allies claiming that the movement is finally bringing accountability to powerful ‘abusers’ and your fear is your admission of guilt. Call me a centrist, but none of these truly grasp the nuance of gender discriminations and consequently the nuances of the movements associated with it.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-When I started to write this down, I was scared of attacking certain beliefs and institutions, I was afraid of a backlash. But why?&lt;/p&gt;
-
-&lt;p&gt; No movement has been spared criticism, so why do I feel so afraid of criticizing this one? That is precisely my first criticism. We’ve been throwing labels like ‘enabler’, ‘abuser’, ‘MRA’ so frivolously and recklessly, that the terms which carry much significance, lose its weight in case of serious offences. I feel afraid of being told that I’m seeking “male validation” while critiquing a movement that talks of the oppression I face. All of my criticism about the movement mainly focuses on the traps that I have myself fallen into, and I will admit, I have been blinded by the reactionary politics around this. Which brings me to my first point. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-ABSTRACTION&lt;/p&gt;
-
-&lt;p&gt;The term you’ve heard often is “enabler” and “abuser”. The allegations that these terms carry are severe and meaningful. If you take a look at the Google Drive case, the people who initiated it, and/or perpetuated the activities, undoubtedly deserve these labels. But are all the allegations of the same magnitude?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Let’s say a person asks someone to sext with them unprompted in 2017, and then gets blocked? Creepy right. I’ve been there on the other side of this. And to the women reading this, I’m sure this is not an uncommon experience for you too. The action of the person in question is undoubtedly abusive. But does this call for the person to be termed an “abuser”? I’ve seen posts like these calling out people as “toxic”, “abusive”, “predator”, and my first speculations about the specifics are always pretty bad. Are we absolutely sure that there is no space for reformation of this person, no space for education? Aren’t these blanket statements a bit too vague? Should these heavy labels be used indiscriminately on everyone? &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Another popular trope is “enabling”. Oh, how hard I had fallen for this myself. We have all sat with people who have made sexist jokes, said repulsive things about women, and no matter what image of yourself you project on your social media account, you too have slut-shamed someone or the other at some point in your life. And it’s really not your fault. We have been brought up in a system where slut-shaming, competing with, and demeaning other women for their femininity and choices are INCENTIVISED. This behavior has sedimented inside our brains for long, and we are all trying to unlearn it. Is it fair, to drag every single friend of the “accused” down the same hole as the accused themselves, without giving them a chance at retribution, self-reflection, and analysis? Are they(we) all really equally as guilty as the perpetrators of the Google-Drive case to receive the same disproportional response? What was the point of “calling out” these enablers ? Did they learn from their mistakes? Did they grow as people? Or did we just shove them into a hole of account-deactivation and self-isolation?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-MOTIVE&lt;/p&gt;
-
-&lt;p&gt;The personal is political, so I cannot leave myself completely removed in the objective sideline. A lot of my friends have called out the people who have abused and exploited them, and since I’ve known them and their account on a very personal level, I can tell you their motivation to call-out was perfectly genuine. I’m sure you’ve had a similar experience as mine or my friends. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-But is that always the case? Let’s take a look at the fall of a very popular couple, (I do not personally know them) R &amp;amp; S. Absolute social butterflies, vocal intersectional feminists, whatnot. And apparent from the screenshots, had engaged in pretty fucked up activities. Now I’m no one to tell you whether they are capable of reparations or not. Maybe they’re repeat offenders, who knows. But take a closer look at the comment section. You cannot overlook the fact that a multitude of people who were slandering them, were not motivated by the slightest sense of moral integrity. It was about a fall, a spectacle - what initially appeared like the guillotine, was actually like one, a source of perverted and sadistic fascination. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-How many of us really want to see the improvement of these people? How many of us want an actual apology and move forward towards creating a more coherent narrative in this fight? I do not have the answers. You have to ask yourself.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-SO WHAT DO WE REALLY WANT FROM THE ACCUSED?&lt;/p&gt;
-
-&lt;p&gt;Let’s say you (yes, YOU) have been called out as an ‘abuser’ or an ‘enabler’. I don’t know how sincere it is because I don’t know you, and this pitfall is a HUGE POINT OF CONCERN. No one knows. What can you do at this point?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Here are three things you can do, and it’ll still never be appropriate for the internet. &lt;/p&gt;
-
-&lt;p&gt;a) Apologize- Once you apologize right away, with or without realizing what you did wrong, or even taking the time to understand if you did anything wrong at all, your apology will be tagged as insincere, and a “manipulative attempt” to coerce the victim into forgiving you.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-b) Try to explain your position - oops, your timeline is now a dumpster fire. You will be accused of being incapable of self-introspection, of invalidating the trauma of the victim, when you didn’t even get a chance to explain your position publicly. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-c) Stay silent- now I totally wanted to make a graph of account deactivations in Kolkata in the past one week, but I’m lazy. If you deactivate or refuse to comment immediately, there can be a lot of reasons for that. Maybe you’re thinking of a proper way of response, or maybe you’re trying to understand exactly what went wrong. Whatever it may be, you’ll immediately be accused of fleeing accountability, and gaslighting the victim. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-We fall into this trap that an instant apology is more sincere than a delayed one. I know for a fact that I indulged in this delusion. It takes time to understand where you went wrong, to self-introspect, to get over the overwhelming nature of the accusations, and respond and improve yourself. It can take more than days. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-What we do by expecting immediate unconditional apologies is stifle an environment encouraging self-improvement, and this one is probably the most dangerous, we encourage insincere pointless apologies from people who in reality deserve no forgiveness for the heinousness of their crime. We snub people capable of change and forgive those incapable of such. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Needlessly to say I absolutely believe that there are people who are so harmful to those around them, that they do not deserve a voice anywhere, let alone forgiveness. So what should we be doing about them? Which brings us to&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-JUSTICE&lt;/p&gt;
-
-&lt;p&gt;So that thing we put aside, about Harvey Weinstein? Let’s bring that back. What #metoo promised was to bring down men who were revered, above all criticism, and considered to be beyond law and accountability. #metoo wanted to bring justice to victims that were impossible to attain at least initially through any due process. Is that really the case here? Besides an obvious few accused, others simply do not have that social capital, public relation agents defending them, are not insanely rich and do not have contacts that we understand are imperative for social survival. So are we kicking people out of orbit without due process? People who we can conventionally bring to justice?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-One problem that I have faced while discussing this is the problem of the statistics. “Most sexual abuse accounts are true”. Given the context of this country and our personal experiences, you really don’t need a number to make that comment. It is invariably true. Facebook is the tip of the iceberg when it comes to the struggle in the lives of women and non-binary folks. But from what I understand, #metoo is a movement of liberation, a fight for equality, a call for dismantling the power structure. This is not a war against people who are capable of change. This is not a war where we can isolate and abandon people without any due process, or any regards for their rights, and declare it is collateral damage for a greater cause. This is the greater cause. Changing people, reforming human beings, this is the greater cause. The current fight at least how I see it has shifted from this principle axis that it started with. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-If you ask yourself and the people around you how they think they can bring any solution to this, the most common answer that you’re likely to get is “sensitization”. We need to educate kids, teachers, and parents, about consent, bodily autonomy, sexual orientation, identity, gender roles, etc. We should be taking immediate efforts towards this, but I hate to admit it, it is a LONG process. Reformation is tedious, abuse is real and immediate. So how do we go about this?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-As I see things now, no matter how much you want to abolish the State and establish the new world order, the law does have the capability to bring some sort of justice to those who are dangerous if left without intervention. Yes, the process is tedious, legal harassment is real. There are tonnes of violating questions and tests that a victim might have to go through before their innocence is even considered. Like the two-finger-test. I’m not gonna describe how brutally violating it is, but through the efforts of people like you and me, who are seeking justice, in 2013 in the case of Lilu @ Rajesh and anr v. State of Haryana, the two-finger-test was declared unconstitutional by the Supreme Court (read here). Similarly, through the LGBTQIAA+ movements, and repeated protests and fights homosexuality was decriminalized as well (read here). Our fights for our rights are very very far from being over, and you can say that these are very small stepping stones in that journey, but I will still advocate that these steps are important. They have real-life and immediate implications. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Social media is an outlet for our grievances with the system, the hierarchies, and the bureaucracies, but the fight beyond that remains imperative. When we can bring these perpetrators who are not really above law, to justice through the hands of law itself, wouldn’t we be creating a better narrative? A chance for everyone to avail of justice? Shouldn’t we be fighting tooth and nail against the laws that are rigged against us, against our humanity and rights to fair treatment? I can only appeal to you to fight and nothing more, I can only assure you that we will fight together.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-WHY I DIDN’T CALL OUT &lt;/p&gt;
-
-&lt;p&gt;This is the part where I need to clear out something very personal. I think that being able to open up about the abuse that you have faced or still do, it a very important step towards justice. What #metoo has done is it has opened to us the dimensions of abuse, and I learn more and more about it every day. Starting this discussion is a very brave thing to do, but I found it to be an utterly harassing experience to be so vulnerable so openly, just to demand justice that I really deserve. Just take a look at the posts of the victims who have opened up. Almost every single one of them face a tremendous amount of abuse and harassment after calling someone out, and the entire thing doesn’t even move a single step towards providing them justice. Why aren’t we fighting for a system where people can fight for their rights without having to bare their most traumatizing moments in front of the most heartless crowd on earth? How can a system so dehumanising for everyone involved, be a solution?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-During the recent “discourse” over justice and social media trails, for reasons that I have been trying to explain so far, I have absolutely lost faith that I can avail of any form of justice through this tool. Social media shaming is a horrifying thing, which I don’t think I or the person in question deserves. It would be a permanent scar because remember, nothing disappears off the internet, the screenshots and accounts will keep circulating and it would end up being a traumatizing experience for both of us, without a single push towards self-improvement or actualization. I’d, of course, be slut-shamed by some, my narrative twisted and needlessly politicized and weaponized by others when all I wanted is for both of us to be better people, to create a healthy environment for discussion and understanding. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-While I believe that the actions of the person in question were truly wrong, it is still a huge leap from criticizing the person’s action to criticizing the person themselves, a leap I’m not willing to make. Whatever accusation I throw, irrespective of the severity of it, will be oversimplified and misappropriated by labeling them as “abuser”, “predator” and whatnot, with absolutely no acceptance for his side of the story. What if I have been emotionally abusive? That’s not far off. What if I have been manipulative? Even if you extend me immense trust that I am not, I can assure you no amount of honesty and humility will make me admit to my own mistakes as openly when I ax him for his. And why will I be worthy of this trust in the first place? What if I’m someone you don’t know? Or someone you don’t like? By now, this is a real possibility. How can I appeal for justice based on the trust I have “earned” through my social capital, how is that just for the person I’m accusing? How is that just for you, as a third party, to be pushed into accepting my account as gospel, and shun someone you barely know into a dark hole of rejection? &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-THE PROBLEM IS BIGGER THAN THAT&lt;/p&gt;
-
-&lt;p&gt;Why I felt the need to say all of this is that the dumpster fire that Facebook is right now, what we are doing is actively escalating conflict instead of promoting any way to come to a mutual understanding and fight together for justice. We are creating respective echo chambers for feminists and men’s rights activists, and everyone who does not agree to our exact brand of feminism, we push them outside to fend for themselves. Someone who has his life thrown into disarray for a crime he didn’t even understand that he committed since we gave him no space for introspection and discussion, which echo chamber do you think he’ll find himself in? Is that what we want? &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-I’m not misdirecting my anger, I’m not calling any feminism “imperfect” or “pseudo”. I’m trying to appeal to you, to reconsider and reevaluate what exactly we are fighting for, and why we have shifted. Needless to say, call-out culture is effective when it comes to men who are so powerful and harmful, that letting them speak is an assault to the idea of democracy itself. But in a temporary, reactionary attitude to reprimand these people, we’re potentially ruining lives which could’ve been bettered, and more importantly derailing a movement which is crucial and can effectively bring exactly criminals like these to justice. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Movements are meant to be moulded through criticism and introspection. But it seems impossible now to challenge narratives and expect any respectful engagement, and that’s precisely what I want to change. &lt;/p&gt;
-
-&lt;p&gt;For example, I find the phrase “Believe women” very misleading. At least how it’s used conventionally. In a country like India, where women are judged, slut-shamed, raped, blamed for it, and then shoved in a corner of disbelief, this phrase is very crucial. What this implies is that an overwhelming majority of violence against women is real, and a huge percentage of it is disbelieved simply because they are not men. Believe women means don’t disbelieve someone because they are women, it does NOT mean believe everyone who is a woman.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-We have to understand, no matter how overwhelmingly true the accounts may be, “believe women” when set as a norm, will be very easy to abuse. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-You can tell me I’m wrong, correct me, and engage, I’m willing to learn, but how many of are up for that effort? There’s a particular amount of comfort in just labeling me an “enabler”, a “sympathizer”, etc, and just shut out everything I tried to challenge. The difficult part is self-introspection, to identify where we are going wrong, to question everything, EVERYTHING.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-As you had promised you have passed me the mic. How does it matter if no one is willing to listen?&lt;/p&gt;
-
-&lt;p&gt;Important note - I have attempted to be as inclusive in my language as possible, if you notice any exclusion, it’s not deliberate, please correct me. &lt;/p&gt;</content><author><name>Ahana Deb</name></author><category term="thoughts" /><summary type="html">[note: This contains my outdated take on cancel culture, written by a young(er) and (more) immature and violent version of me in the wake of the “me-too” movement in the upper social classes of Jadavpur University (JU), my alma mater. The arguments for this half-baked post were borrowed from this brilliant video by Natalie Wynn. The original blog was published in 2020, with a note claiming to be a concise summary of said video, and I have no doubt I did not succeed. Please watch the video instead, this blog is here for documentation purposes. Thank you.]</summary></entry></feed>
+
+
+- Slavoj Žižek, welcome back to PoliticsJoe, for those unfamiliar with who you are, how would you like to introduce yourself? 
+
+
+
+-  Ah, now comes a surprise. I still advocate [for] communism, but what kind of communism? A German journalist...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>The Delusion of Green Capitalism</title>
+    <link href="http://localhost:4000/posts/delusion-of-green-capitalism/" rel="alternate" type="text/html" title="The Delusion of Green Capitalism" />
+    <published>2023-12-10T00:00:00+08:00</published>
+  
+    <updated>2023-12-10T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/delusion-of-green-capitalism/</id>
+    <content src="http://localhost:4000/posts/delusion-of-green-capitalism/" />
+    <author>
+      <name>Ahana Deb</name>
+    </author>
+
+  
+    
+    <category term="Transcript" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      [The following is the transcript of a part of the lecture by Slavoj Žižek at CUNY (New York) found here. Unfortunately the whole speech, which used to be here,  is no longer available.] 
+
+
+
+So, there is, I claim, something deceptively reassuring in our readiness to assume full guilt and responsibility for the threats to our environment. We like to be guilty since if we are guilty it all depends...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Against The Right, Brooks</title>
+    <link href="http://localhost:4000/posts/against-the-web/" rel="alternate" type="text/html" title="Against The Right, Brooks" />
+    <published>2023-12-10T00:00:00+08:00</published>
+  
+    <updated>2023-12-10T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/against-the-web/</id>
+    <content src="http://localhost:4000/posts/against-the-web/" />
+    <author>
+      <name>Ahana Deb</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Book Review" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      currently writing
+
+
+\
+
+
+
+
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>On Faith</title>
+    <link href="http://localhost:4000/posts/on-faith/" rel="alternate" type="text/html" title="On Faith" />
+    <published>2023-12-07T00:00:00+08:00</published>
+  
+    <updated>2023-12-07T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/on-faith/</id>
+    <content src="http://localhost:4000/posts/on-faith/" />
+    <author>
+      <name>Ahana Deb</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Personal" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      A lot of thoughts and ideas have been circling in my head endlessly for the last few days, and only a slow Thursday and an empty office gave me permission to put them down on paper. There’s not much direction here or development for that matter, but that is probably symptomatic of the ideas themselves.
+
+
+
+Lately, I’ve been thinking a lot about religion and the distinction between organized and ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

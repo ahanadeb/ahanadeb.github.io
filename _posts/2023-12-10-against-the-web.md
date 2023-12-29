@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Against The Right, Brooks
-category: bookreview
+categories: [Blogging, Book Review]
+tags: [writing]
 ---
 
 currently writing
@@ -18,25 +19,3 @@ currently writing
 <br>
 
 
-write your thoughts: 
-<br>
-<form
-  action="https://formspree.io/f/mqkvrdjn"
-  method="POST"
->
-  <label>
-    your email:
-    <input type="email" name="email">
-  </label>
-
-  <br>
-   <br>
-
-  <label>
-    your message:
-    <textarea name="message"></textarea>
-  </label>
-  <br>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
