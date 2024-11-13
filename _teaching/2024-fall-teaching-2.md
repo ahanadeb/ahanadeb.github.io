@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-2
 venue: "Universitat Pompeu Fabra, Engineering Department"
 date: 2024 - ongoing
