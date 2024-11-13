@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-2
 venue: "Universitat Pompeu Fabra, Engineering Department"
-date: 2024 - ongoing
+date: 2024-1-10
 location: "Barcelona, Spain"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2023-summer-teaching-3
 venue: "Universitat Pompeu Fabra, Engineering Department"
-date: 2023 
+date: 2023-6-3
 location: "Barcelona, Spain"
 ---
 
