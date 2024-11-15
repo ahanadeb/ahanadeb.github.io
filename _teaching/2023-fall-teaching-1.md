@@ -9,11 +9,3 @@ location: "Barcelona, Spain"
 ---
 
 Teaching Assistant for the Object Oriented Programming course (Java/C++).
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
