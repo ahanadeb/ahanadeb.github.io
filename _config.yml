@@ -21,7 +21,7 @@ repository               : "ahanadeb/ahanadeb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "new_image.jpeg"
   name             : "Ahana"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Reinforcement Learning"
