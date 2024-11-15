@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+You can download my cv [here](link)!
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Theoretical Reinfocement Learning, Universitat Pompeu Fabra, 2027 (expected)
+* M.S. in Intelligent Interactive Systems, Universitat Pompeu Fabra, 2023
+* B.S. in Instrumentation and Electronics Engineering, Jadavpur University, 2020
 
 Work experience
 ======
@@ -32,14 +35,14 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
