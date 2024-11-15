@@ -20,20 +20,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Research Intern
+  * Joint Research Center, European Commission
+  * I did my master thesis "Inverse reinforcement learning with linearly-solvable MDPs for multiple reward functions" . Available [here](https://repositori.upf.edu/handle/10230/58063)
+  * Supervisors: Anders Jonsson, Vicenç Gómez, Mario Ceresa
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2022: Research Fellow
+  * Sir C.V. Raman Centre for Physics and Music, Jadavpur University
+  * Research work on Bengali speech data corpus development and Hindustani music classification
+  * Supervisors: Dr. Shankha Sanyal and Prof. Dipak Ghosh
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Intern
+  * TCS Innovation Labs, Kolkata
+  * Research focussing on Computer Vision/ ROS.
+  * Supervisor: Dr. Arnab Sinha
   
 <!-- Skills
 ======
@@ -62,6 +62,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
