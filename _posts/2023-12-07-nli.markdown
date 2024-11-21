@@ -8,6 +8,7 @@ author: "Ahana Deb"
 # subtitle: "Graphs for the Financial Market"
 # paper: /pdfs/cs224w.pdf
 course: "Natural Language Interaction "
+code: "https://github.com/fenjenahwe/NLI-EVA0"
 ---
 We built a chatbot and a web application to replace the current virtual secretary of the Department of Information and Communications technologies at upf, featuring automatic speech recognition and text-to-speech, with [Adriana Basbous](https://adriaaa.com) and Tobias Glaninger – coursework for natural language interaction (2023).
 
