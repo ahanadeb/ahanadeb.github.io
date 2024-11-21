@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "Beyond Correlation Networks for the Financial Market"
+title:  "EVA: Chatbot project"
 date:   2016-12-07 22:20:59 +00:00
-image: /images/cs224w.png
+image: /images/nli.png
 categories: Stanford
-author: "Leo Keselman"
-subtitle: "Graphs for the Financial Market"
-paper: /pdfs/cs224w.pdf
-course: "CS224W: Social and Information Network Analysis"
+author: "Ahana Deb"
+# subtitle: "Graphs for the Financial Market"
+# paper: /pdfs/cs224w.pdf
+course: "Natural Language Interaction "
 ---
-Using graph models, we track the development of financial networks over the 20th century. 
+We built a chatbot and a web application to replace the current virtual secretary of the Department of Information and Communications technologies at upf, featuring automatic speech recognition and text-to-speech, with [Adriana Basbous](https://adriaaa.com) and Tobias Glaninger – coursework for natural language interaction (2023).
 
-Correlation networks are a widely used analysis tool for equities. We investigate alternative strategies for generating edges between stocks. Further, we probe these networks to understand how well they explain correlations, without using historical data. Using a Kronecker Graph model, we model the development of these networks over the 20th century. To the best of our knowledge, this is the first work investigating how correlation networks evolve over long periods of time. To the best of our knowledge, this is the first work investigating how correlation networks evolve over long periods of time.
-
-[CS224W Paper](/pdfs/cs224w.pdf){:target="_blank"}
+<!-- [CS224W Paper](/pdfs/cs224w.pdf){:target="_blank"} -->
 
