@@ -3,7 +3,7 @@ layout: post
 title:  "Hate Speech analysis in the Manosphere"
 date:   2023-07-21 22:21:59 +00:00
 image: /images/hatespeech.webp
-categories: Stanford
+categories: UPF
 author: "Ahana Deb"
 
 ---

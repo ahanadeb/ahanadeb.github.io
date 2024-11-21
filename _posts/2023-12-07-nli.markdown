@@ -3,7 +3,7 @@ layout: post
 title:  "EVA: Chatbot project"
 date:   2023-12-07 22:20:59 +00:00
 image: /images/nli.png
-categories: Stanford
+categories: UPF
 author: "Ahana Deb"
 # subtitle: "Graphs for the Financial Market"
 # paper: /pdfs/cs224w.pdf
