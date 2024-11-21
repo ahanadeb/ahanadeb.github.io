@@ -2,8 +2,8 @@
 layout: post
 title:  "LeRobot Hackathon by HuggingFace"
 date:   2024-10-26 22:21:59 +00:00
-image: /images/lerobot.jpeg
-categories: HiggingFace
+image: /images/lerobot2.jpeg
+categories: HuggingFace
 author: "Ahana Deb"
 
 ---
