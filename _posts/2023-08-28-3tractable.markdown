@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Tractable Offline Learning of Regular Decision Processes"
+date:   2023-08-28 22:21:59 +00:00
+image: /images/tractable.png
+categories: research
+author: "Ahana Deb"
+authors: "<strong>Ahana Deb</strong>, Roberto Cipollone, Anders Jonsson, Alessandro Ronca, Mohammad Sadegh Talebi"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2409.02747v1
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+---
+We study offline Reinforcement Learning (RL) in a class of non-Markovian environments called Regular Decision Processes (RDPs). We introduce two novel algorithms with improved sample complexity and we derive the respective PAC sample complexity bounds.
