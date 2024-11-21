@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[Master Thesis] Inverse reinforcement learning with linearly-solvable MDPs for multiple reward functions"
+date:   2022-06-14 21:21:53 +00:00
+image: /images/tfm.png
+categories: research
+venue: Universitat Pompeu Fabra
+author: "Ahana Deb"
+# course: "CS225A: Experimental Robotics"
+# video: https://www.youtube.com/watch?v=UcLmpWmIVzE
+# video2: https://www.youtube.com/watch?v=MgCWEkhtqiQ
+paper: /pdfs/TFM_Deb_2023.pdf
+link: http://hdl.handle.net/10230/58063
+---
+We aim to utilise the advantages in problem formulation and ease of computation for  Linearly solvable Markov Decision Processes (LMDPs), for a multiple-agent, multiple- reward scenario, using non-parametric Bayesian inverse reinforcement learning. Also available [here](http://hdl.handle.net/10230/58063).
+
+<!-- [CS225A Paper](/pdfs/cs225a.pdf){:target="_blank"}
+
+[Short demo video on YouTube](https://www.youtube.com/watch?v=UcLmpWmIVzE)
+
+[Longer demo video on YouTube](https://www.youtube.com/watch?v=MgCWEkhtqiQ)
+
+<center>
+<iframe src="http://www.youtube.com/embed/MgCWEkhtqiQ" frameborder="0" height="315" width="560"></iframe>
+</center> -->
