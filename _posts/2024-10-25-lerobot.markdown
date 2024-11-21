@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "LeRobot Hackathon by HuggingFace"
+date:   2024-10-26 22:21:59 +00:00
+image: /images/lerobot.jpeg
+categories: HiggingFace
+author: "Ahana Deb"
+
+---
+Assembled a Moss v1 arm from scratch, and used the LeRobot library to configure, calibrate, and teleoperate the follower arm by manually controlling the leader arm. We used this to record dataset and used it to train a imitation learning policy and ran our trained policy on the real robot.

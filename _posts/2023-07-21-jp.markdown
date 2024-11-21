@@ -2,9 +2,10 @@
 layout: post
 title:  "Hate Speech analysis in the Manosphere"
 date:   2023-07-21 22:21:59 +00:00
-image: /images/hatespeech.webp
+image: /images/hatespeech.jpg
 categories: UPF
 author: "Ahana Deb"
 
 ---
 Work with [Adriana Basbous](https://adriaaa.com). We investigated misinformation and hate speech in alt-right and manosphere channels online. We analyzed web and social media corpora from online communities associated to the manosphere. We applied sentiment analyses and topic modeling using different machine learning models, exploring their varying capacity to identify and assess hate speech and misinformation – coursework for web intelligence given by Pablo Aragón (2023).
+[Image designed by Freepik]
