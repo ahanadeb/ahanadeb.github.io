@@ -9,6 +9,7 @@ author: "Ahana Deb"
 authors: "<strong>Ahana Deb</strong>, Roberto Cipollone, Anders Jonsson, Alessandro Ronca, Mohammad Sadegh Talebi"
 venue: "EWRL (Poster)"
 arxiv: https://arxiv.org/abs/2409.02747v1
+link: https://arxiv.org/abs/2409.02747v1
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
 poster: /pdfs/EWRL_2024_Poster.pdf

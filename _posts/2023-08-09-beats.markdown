@@ -10,6 +10,7 @@ venue: INTERSPEECH (Oral)
 arxiv: https://arxiv.org/pdf/2306.02680.pdf
 # code: https://github.com/leonidk/fmb-plus
 website: https://soumitri2001.github.io/BeAts/
+link: https://arxiv.org/pdf/2306.02680.pdf
 # poster: /pdfs/EWRL_2024_Poster.pdf
 ---
 We develop a novel multimodal approach combining two models, wav2vec2.0 for audio and MarianMT for text translation, by using multimodal attention fusion to predict speech acts in our prepared Bengali speech corpus. We also show that our model BeAts (Bengali speech acts recognition using Multimodal Attention Fusion) significantly outperforms both the unimodal baseline using only speech data and a simpler bimodal fusion using both speech and text data.

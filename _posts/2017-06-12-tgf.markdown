@@ -10,6 +10,7 @@ author: "Ahana Deb"
 # video: https://www.youtube.com/watch?v=UcLmpWmIVzE
 # video2: https://www.youtube.com/watch?v=MgCWEkhtqiQ
 paper: /pdfs/TFM_Deb_2023.pdf
+link: http://hdl.handle.net/10230/58063
 ---
 We aim to utilise the advantages in problem formulation and ease of computation for  Linearly solvable Markov Decision Processes (LMDPs), for a multiple-agent, multiple- reward scenario, using non-parametric Bayesian inverse reinforcement learning. Also available [here](http://hdl.handle.net/10230/58063).
 
