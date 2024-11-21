@@ -2,7 +2,7 @@
 layout: post
 title:  "Tractable Offline Learning of Regular Decision Processes"
 date:   2024-08-28 22:21:59 +00:00
-image: /images/cs225a.jpg
+image: /images/cookie.png
 #image: /images2/cookie.png
 categories: research
 author: "Ahana Deb"
