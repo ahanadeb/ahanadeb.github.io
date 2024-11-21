@@ -4,7 +4,7 @@ title:  "[Master Thesis] Inverse reinforcement learning with linearly-solvable M
 date:   2022-06-14 21:21:53 +00:00
 image: /images/tfm.png
 author: "Ahana Deb"
-authors: "<strong>Ahana Deb</strong>, Supervisors: Anders Jonsson, Vicenç Gomex, Mario Ceresa"
+authors: "<strong>Ahana Deb</strong>, Supervisors: Anders Jonsson, Vicenç Gómez, Mario Ceresa"
 categories: research
 venue: Universitat Pompeu Fabra
 author: "Ahana Deb"
