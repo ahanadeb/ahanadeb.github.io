@@ -2,7 +2,7 @@
 layout: post
 title:  " Depth Image Enhancement"
 date:   2015-08-06 22:21:59 +00:00
-image: /images/haowei.png
+image: /images/cookie.png
 categories: Intel
 author: "Leo Keselman"
 subtitle: "Hand Tracking Demo"
