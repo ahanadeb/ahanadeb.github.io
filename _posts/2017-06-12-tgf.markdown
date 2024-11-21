@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Master Thesis]"
+title:  "[Master Thesis] Inverse reinforcement learning with linearly-solvable MDPs for multiple reward functions"
 date:   2022-06-14 21:21:53 +00:00
 #image: /images/cs225a.jpg
 categories: research
