@@ -73,7 +73,7 @@
             <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Updates</heading>
+              <h3>Updates</h3>
         <div style="width:100%;overflow-y:scroll; height:200px;">
               <ul>
         <li> SafaRi and Meerkat are accepted at ECCV 2024! <strong><span class="glow">NEW</span></strong></li>
@@ -102,12 +102,14 @@
 
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-           <h2> Publications </h2>
+           
           {% for post in site.posts %}
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
+            <h2> Publications </h2>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
