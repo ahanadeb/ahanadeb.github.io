@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EVA: Chatbot project"
-date:   2016-12-07 22:20:59 +00:00
+date:   2023-12-07 22:20:59 +00:00
 image: /images/nli.png
 categories: Stanford
 author: "Ahana Deb"
