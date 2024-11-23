@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "State estimation of dynamic particle from a moving camera"
+date:   2019-06-14 21:21:53 +00:00
+image: /images/tcs.png
+author: "Ahana Deb"
+authors: "<strong>Ahana Deb</strong>, Supervisors: Dr. Arnab Sinha"
+categories: research
+venue: TCS Innovation Labs, India
+author: "Ahana Deb"
+# course: "CS225A: Experimental Robotics"
+# video: https://www.youtube.com/watch?v=UcLmpWmIVzE
+# video2: https://www.youtube.com/watch?v=MgCWEkhtqiQ
+# paper: /pdfs/TFM_Deb_2023.pdf
+# link: http://hdl.handle.net/10230/58063
+---
+We have present a solution to estimating motion and position of a body undergoing motion with a linear velocity while the camera independently undergoes a transformation. The solution narrows down the requirement to three consecutive frames of the camera to correctly estimate the position and velocity of the moving body with respect to the coordinate system of the camera.
+
+<!-- [CS225A Paper](/pdfs/cs225a.pdf){:target="_blank"}
+
+[Short demo video on YouTube](https://www.youtube.com/watch?v=UcLmpWmIVzE)
+
+[Longer demo video on YouTube](https://www.youtube.com/watch?v=MgCWEkhtqiQ)
+
+<center>
+<iframe src="http://www.youtube.com/embed/MgCWEkhtqiQ" frameborder="0" height="315" width="560"></iframe>
+</center> -->
