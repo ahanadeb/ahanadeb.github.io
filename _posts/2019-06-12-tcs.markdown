@@ -14,7 +14,7 @@ author: "Ahana Deb"
 # paper: /pdfs/TFM_Deb_2023.pdf
 # link: http://hdl.handle.net/10230/58063
 ---
-We have present a solution to estimating motion and position of a body undergoing motion with a linear velocity while the camera independently undergoes a transformation. The solution narrows down the requirement to three consecutive frames of the camera to correctly estimate the position and velocity of the moving body with respect to the coordinate system of the camera.
+We present a solution to estimating motion and position of a body undergoing motion with a linear velocity while the camera independently undergoes a transformation. The solution narrows down the requirement to three consecutive frames of the camera to correctly estimate the position and velocity of the moving body with respect to the coordinate system of the camera.
 
 <!-- [CS225A Paper](/pdfs/cs225a.pdf){:target="_blank"}
 
