@@ -15,7 +15,8 @@ paper: /pdfs/sigbovik.pdf
 link: https://sigbovik.org/2022/proceedings.pdf
 # code: https://github.com/ahanadeb/Flappy_birds
 ---
-This is a fun (read mock) paper about (not) solving the WORDLE puzzle that I wrote with Sayan Goswami, for [SIGBOVIK 2022](https://sigbovik.org/2022/). 
+This is a fun (read mock) paper about (not) solving the WORDLE puzzle that I wrote with Sayan Goswami, for [SIGBOVIK 2022](sigbovik.org/2022).
+
 <!-- [CS225A Paper](/pdfs/cs225a.pdf){:target="_blank"}
 
 [Short demo video on YouTube](https://www.youtube.com/watch?v=UcLmpWmIVzE)
