@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Racial Bias in Facial Recognition Technology"
+date:   2022-06-14 21:21:53 +00:00
+image: /images/frt.png
+author: "Ahana Deb"
+authors: "<strong>Ahana Deb</strong>, Jordi Sabat´es De La Huerta, Igor Kuzmin"
+categories: UPF
+venue: Universitat Pompeu Fabra
+author: "Ahana Deb"
+# course: "CS225A: Experimental Robotics"
+# video: https://www.youtube.com/watch?v=UcLmpWmIVzE
+# video2: https://www.youtube.com/watch?v=MgCWEkhtqiQ
+paper: /pdfs/frt.pdf
+# code: https://github.com/ahanadeb/Flappy_birds
+---
+In this work we aim to analyze recent publications on FRT benchmarks, and propose questions on the racial composition of datasets and accuracy reports on racial subgroups. Our analysis indicates that a significant portion of the papers does not consider any kind of bias, some racial groups are underrepresented in the datasets used, and there is a need for taking these factors into account while analyzing facial data, otherwise posing limitations in the performance of the FRTs.
+<!-- [CS225A Paper](/pdfs/cs225a.pdf){:target="_blank"}
+
+[Short demo video on YouTube](https://www.youtube.com/watch?v=UcLmpWmIVzE)
+
+[Longer demo video on YouTube](https://www.youtube.com/watch?v=MgCWEkhtqiQ)
+
+<center>
+<iframe src="http://www.youtube.com/embed/MgCWEkhtqiQ" frameborder="0" height="315" width="560"></iframe>
+</center> -->
