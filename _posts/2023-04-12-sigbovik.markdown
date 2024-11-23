@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "A Deep Learning Approach for Deeply Inaccurate Wordle Solving"
+date:   2019-06-14 21:21:53 +00:00
+image: /images/sigbovik.png
+author: "Ahana Deb"
+authors: "<strong>Ahana Deb</strong>, Sayan Goswami"
+categories: UPF
+venue: Sigbovik, 2019
+author: "Ahana Deb"
+# course: "CS225A: Experimental Robotics"
+# video: https://www.youtube.com/watch?v=UcLmpWmIVzE
+# video2: https://www.youtube.com/watch?v=MgCWEkhtqiQ
+paper: /pdfs/sigbovik.pdf
+link: https://sigbovik.org/2022/proceedings.pdf
+# code: https://github.com/ahanadeb/Flappy_birds
+---
+This is a fun (read mock) paper about (not) solving the WORDLE puzzle that I wrote with Sayan Goswami, for [SIGBOVIK 2022](https://sigbovik.org/2022/). 
+<!-- [CS225A Paper](/pdfs/cs225a.pdf){:target="_blank"}
+
+[Short demo video on YouTube](https://www.youtube.com/watch?v=UcLmpWmIVzE)
+
+[Longer demo video on YouTube](https://www.youtube.com/watch?v=MgCWEkhtqiQ)
+
+<center>
+<iframe src="http://www.youtube.com/embed/MgCWEkhtqiQ" frameborder="0" height="315" width="560"></iframe>
+</center> -->
