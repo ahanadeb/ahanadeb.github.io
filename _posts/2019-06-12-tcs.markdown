@@ -5,7 +5,7 @@ date:   2019-06-14 21:21:53 +00:00
 image: /images/tcs.png
 author: "Ahana Deb"
 authors: "<strong>Ahana Deb</strong>, Supervisors: Dr. Arnab Sinha"
-categories: UPF
+categories: Internship, TCS Innovation Labs, India
 venue: TCS Innovation Labs, India
 author: "Ahana Deb"
 # course: "CS225A: Experimental Robotics"
