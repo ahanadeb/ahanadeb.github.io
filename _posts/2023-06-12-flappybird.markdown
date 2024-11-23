@@ -5,7 +5,7 @@ date:   2022-06-14 21:21:53 +00:00
 image: /images/fp1.png
 author: "Ahana Deb"
 authors: "<strong>Ahana Deb</strong>, Tobias Glaninger"
-categories: research
+categories: UPF
 venue: Universitat Pompeu Fabra
 author: "Ahana Deb"
 # course: "CS225A: Experimental Robotics"
