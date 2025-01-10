@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Offline Learning in Regular Decision Processes"
+date:   2025-01-06 22:21:59 +00:00
+image: /images/isi.jpg
+#image: /images2/cookie.png
+categories: talk
+author: "Ahana Deb"
+authors: "<strong>Ahana Deb</strong>"
+venue: "Indian Statistical Institute (ISI), Kolkata"
+arxiv: https://arxiv.org/abs/2409.02747v1
+link: https://arxiv.org/abs/2409.02747v1
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+slides: /pdfs/presentation_isi.pdf
+---
+Invited talk at [Indian Statistical Institute (ISI)](https://www.isical.ac.in), Kolkata for ACMU seminar, 2025.
