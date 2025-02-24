@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Offline RL in Regular Decision Processes: Sample Efficiency via Language Metrics"
-date:   2025-02-24 22:21:59 +00:00
+date:   2025-02-23 22:21:59 +00:00
 image: /images/iclr.png
 #image: /images2/cookie.png
 categories: research
@@ -10,7 +10,7 @@ authors: "<strong>Ahana Deb</strong>, Roberto Cipollone, Anders Jonsson, Alessan
 venue: "ICLR (Poster)"
 # arxiv: https://arxiv.org/abs/2409.02747v1
 link: https://openreview.net/forum?id=EW6bNEqalF&nesting=2&sort=date-desc
-# code: https://github.com/leonidk/fmb-plus
+code: https://github.com/ahanadeb/ADACT-H
 # website: https://leonidk.github.io/fmb-plus
 # poster: /pdfs/EWRL_2024_Poster.pdf
 ---
