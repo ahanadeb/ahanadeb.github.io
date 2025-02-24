@@ -2,7 +2,7 @@
 layout: post
 title:  "Offline RL in Regular Decision Processes: Sample Efficiency via Language Metrics"
 date:   2025-02-24 22:21:59 +00:00
-image: /images/ewrl.png
+image: /images/iclr.png
 #image: /images2/cookie.png
 categories: research
 author: "Ahana Deb"
