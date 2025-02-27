@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Dia Internacional de la Llengua Materna"
+date:   2023-12-07 22:20:59 +00:00
+image: /images/bangladesh.png
+categories: UPF
+author: "Ahana Deb"
+# subtitle: "Graphs for the Financial Market"
+# paper: /pdfs/cs224w.pdf
+course: "Catala "
+slides: /pdf/bangladesh.pdf
+---
+Vaig fer una breu presentació sobre la història del Dia Internacional de la Llengua Materna.
+\[Translation: Gave a short presentation on the history of International Mother Language Day.\]
+<!-- [CS224W Paper](/pdfs/cs224w.pdf){:target="_blank"} -->
+
