@@ -2,7 +2,7 @@
 layout: post
 title:  "Offline Learning in Regular Decision Processes"
 date:   2025-01-06 22:21:59 +00:00
-image: /images/isi.png
+image: /images/isi2.jpeg
 #image: /images2/cookie.png
 categories: talk
 author: "Ahana Deb"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dia Internacional de la Llengua Materna"
-date:   2023-12-07 22:20:59 +00:00
+date:   2025-02-26 22:20:59 +00:00
 image: /images/bangladesh.png
 categories: UPF
 author: "Ahana Deb"
