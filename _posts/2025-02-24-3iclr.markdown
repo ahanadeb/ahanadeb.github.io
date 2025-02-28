@@ -10,7 +10,7 @@ authors: "<strong>Ahana Deb</strong>, Roberto Cipollone, Anders Jonsson, Alessan
 venue: "ICLR (Poster)"
 # arxiv: https://arxiv.org/abs/2409.02747v1
 link: https://openreview.net/forum?id=EW6bNEqalF&nesting=2&sort=date-desc
-code: https://github.com/ahanadeb/ADACT-H
+code: https://github.com/aig-upf/adact-l/tree/main
 website: https://openreview.net/forum?id=EW6bNEqalF&nesting=2&sort=date-desc
 # poster: /pdfs/EWRL_2024_Poster.pdf
 ---
