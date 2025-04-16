@@ -12,7 +12,7 @@ venue: "ICLR (Poster)"
 link: https://openreview.net/forum?id=EW6bNEqalF&nesting=2&sort=date-desc
 code: https://github.com/aig-upf/adact-l/tree/main
 website: https://openreview.net/forum?id=EW6bNEqalF&nesting=2&sort=date-desc
-# poster: /pdfs/EWRL_2024_Poster.pdf
+poster: /pdfs/ICLR_Poster.pdf
 ---
 
 In this paper, we consider episodic RDPs and show that it is possible to overcome the limitations of existing offline RL algorithms for RDPs via the introduction of two original techniques: a novel metric grounded in formal language theory and an approach based on Count-Min-Sketch (CMS). We derive Probably Approximately Correct (PAC) sample complexity bounds associated to each of these techniques, and validate the approach experimentally.
