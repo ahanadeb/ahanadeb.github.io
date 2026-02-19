@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Learning Compact Regular Decision Processes using Priors and Cascades"
+date:   2025-09-23 22:21:59 +00:00
+image: /images/ewrl25.png
+#image: /images2/cookie.png
+categories: research
+author: "Ahana Deb"
+authors: "<strong>Ahana Deb</strong>, Anders Jonsson, Alessandro Ronca, Mohammad Sadegh Talebi"
+venue: "ICLR (Poster)"
+# arxiv: https://arxiv.org/abs/2409.02747v1
+link: https://openreview.net/forum?id=vRCv56xHjE&nesting=2&sort=date-desc
+#code: https://github.com/aig-upf/adact-l/tree/main
+website: https://openreview.net/forum?id=vRCv56xHjE&nesting=2&sort=date-desc
+poster: /pdfs/EWRL_poster_2025.pdf
+---
+
+In this work we study offline Reinforcement Learning (RL), and extend the previous work on learning Regular Decision Processes (RDPs), which are a class of non-Markovian environment, where the unknown dependency of future observations and rewards from the past interactions can be captured by some hidden finite-state automaton. We utilise the language metric introduced previously for an offline RL algorithm for RDPs, and introduce a novel algorithm to learn a significantly more compact RDP with cycles, which are crucial for scaling to larger, more complex environments. Key to our results is a novel notion of priors for automaton learning, that allows us to exploit prior domain-related knowledge, used to factor out of the state space any feature that is known a priori. We validate our approach experimentally and provide a Probably Approximately Correct (PAC) analysis of our algorithm, showing it enjoys a sample complexity polynomial in the relevant parameters.
